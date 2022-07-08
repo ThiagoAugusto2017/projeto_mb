@@ -4,3 +4,309 @@
 2022-07-08 17:06:21:621 - [32minfo[39m: [32mlistening on 3333[39m
 2022-07-08 17:06:52:652 - [32minfo[39m: [32mlistening on 3333[39m
 2022-07-08 17:07:24:724 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:10:04:104 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:23:45:2345 - [35mhttp[39m: [35mPOST /api/user 404 148 - 3.015 ms[39m
+[35m[39m
+2022-07-08 18:25:56:2556 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:26:03:263 - [35mhttp[39m: [35mPOST /api/user/ 201 30 - 7.670 ms[39m
+[35m[39m
+2022-07-08 18:28:14:2814 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:28:59:2859 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:29:05:295 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:31:25:3125 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:36:24:3624 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:36:26:3626 - [31merror[39m: [31mErro no cadastro - Rota - input:bcrypt is not defined[39m
+2022-07-08 18:36:26:3626 - [35mhttp[39m: [35mPOST /api/user/ 500 38 - 5.141 ms[39m
+[35m[39m
+2022-07-08 18:36:45:3645 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:36:49:3649 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 5.894 ms[39m
+[35m[39m
+2022-07-08 18:41:12:4112 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:43:18:4318 - [32minfo[39m: [32m{[39m
+[32m  nome: undefined,[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$7JNev0d8t6DdFm55nAQicupXX0GvnoMtaGq1rDtSr.cUXak1.7SkC'[39m
+[32m}[39m
+2022-07-08 18:43:18:4318 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 115.206 ms[39m
+[35m[39m
+2022-07-08 18:43:36:4336 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:43:40:4340 - [32minfo[39m: [32m{[39m
+[32m  nome: 'thiago',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$09g..U1JpJJeLZnydv7p3.soHeWxr44UxUdbrhKGBUAsui69KqGai'[39m
+[32m}[39m
+2022-07-08 18:43:40:4340 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 147.077 ms[39m
+[35m[39m
+2022-07-08 18:44:11:4411 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 18:44:31:4431 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:00:48:048 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:01:00:10 - [32minfo[39m: [32m{[39m
+[32m  nome: '1',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$e5nn9NHK60KtOkOSRo/FtOx3U1kPrnL9cZRuK1ABsH.HLKSldShfa'[39m
+[32m}[39m
+2022-07-08 19:01:00:10 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 106.113 ms[39m
+[35m[39m
+2022-07-08 19:01:24:124 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:01:28:128 - [32minfo[39m: [32m{[39m
+[32m  nome: '1',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$8rL6xSRrMhn7lxnU3vywTu3uJYWSN1vhiNw2DuXKbr2tr8sV7ZKMO'[39m
+[32m}[39m
+2022-07-08 19:01:28:128 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 133.463 ms[39m
+[35m[39m
+2022-07-08 19:02:19:219 - [32minfo[39m: [32m{[39m
+[32m  nome: '1',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$achTd0nlOzTnL8orAjJ.0u6w22L02.dOWR9wRiuVHmJ1f.R5vSpR6'[39m
+[32m}[39m
+2022-07-08 19:02:19:219 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 79.355 ms[39m
+[35m[39m
+2022-07-08 19:02:30:230 - [32minfo[39m: [32m{[39m
+[32m  nome: '1r',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$Mu/c43rr5toTf1GwakNaMuNYaBepHOBqqwuut.x9UFiZFmpmCvCY6'[39m
+[32m}[39m
+2022-07-08 19:02:30:230 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 75.926 ms[39m
+[35m[39m
+2022-07-08 19:02:35:235 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:02:37:237 - [32minfo[39m: [32m{[39m
+[32m  nome: '1r',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$NkKnSo.e7m49qgZmmPeW3OhPOS67G7FMCI7MJcG5GjfbwkcHnyH3u'[39m
+[32m}[39m
+2022-07-08 19:02:37:237 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 112.965 ms[39m
+[35m[39m
+2022-07-08 19:07:48:748 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:08:58:858 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:09:14:914 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:09:20:920 - [35mhttp[39m: [35mPOST /api/user/ 422 116 - 17.243 ms[39m
+[35m[39m
+2022-07-08 19:09:47:947 - [35mhttp[39m: [35mPOST /api/user/ 422 116 - 4.313 ms[39m
+[35m[39m
+2022-07-08 19:09:48:948 - [35mhttp[39m: [35mPOST /api/user/ 422 116 - 2.125 ms[39m
+[35m[39m
+2022-07-08 19:10:30:1030 - [32minfo[39m: [32m{[39m
+[32m  nome: 'thiago',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$QRdCEnuljRmJtI3uLvovJuXtoh/tsfSjOGOn.yQptLuRKmp01Nfzq'[39m
+[32m}[39m
+2022-07-08 19:10:30:1030 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 102.699 ms[39m
+[35m[39m
+2022-07-08 19:10:41:1041 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 0.927 ms[39m
+[35m[39m
+2022-07-08 19:14:59:1459 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:15:01:151 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 25.565 ms[39m
+[35m[39m
+2022-07-08 19:15:11:1511 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:15:13:1513 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 22.385 ms[39m
+[35m[39m
+2022-07-08 19:15:55:1555 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:15:57:1557 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 27.994 ms[39m
+[35m[39m
+2022-07-08 19:17:15:1715 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:17:27:1727 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:17:34:1734 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 17.948 ms[39m
+[35m[39m
+2022-07-08 19:18:40:1840 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:18:42:1842 - [35mhttp[39m: [35mPOST /api/user/ 422 96 - 17.472 ms[39m
+[35m[39m
+2022-07-08 19:19:30:1930 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:19:32:1932 - [35mhttp[39m: [35mPOST /api/user/ 422 96 - 22.365 ms[39m
+[35m[39m
+2022-07-08 19:19:50:1950 - [32minfo[39m: [32m{[39m
+[32m  nome: 'tgt',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$3iH2caNWLeAmH14Vo67FWOeIO7.bZptBEnBy2KNjaEiORetz6AYvu'[39m
+[32m}[39m
+2022-07-08 19:19:50:1950 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 97.514 ms[39m
+[35m[39m
+2022-07-08 19:20:35:2035 - [32minfo[39m: [32m{[39m
+[32m  nome: '444',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$fK4jRlmrwBlAJMbVvFW0ReMQUMwh78jO8jn8L2JbxPwdKLDnTetBy'[39m
+[32m}[39m
+2022-07-08 19:20:35:2035 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 76.285 ms[39m
+[35m[39m
+2022-07-08 19:21:25:2125 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:31:17:3117 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 28.042 ms[39m
+[35m[39m
+2022-07-08 19:33:21:3321 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:34:06:346 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:34:10:3410 - [32minfo[39m: [32m{[39m
+[32m  nome: '444',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$QbAqs2ZKIEKWCAKP4ek.OOga4/UGc3CjJJIaKhqJJ.rAPfNyrkKLK'[39m
+[32m}[39m
+2022-07-08 19:34:10:3410 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 107.030 ms[39m
+[35m[39m
+2022-07-08 19:34:34:3434 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:34:38:3438 - [35mhttp[39m: [35mPOST /api/user/ 422 121 - 16.653 ms[39m
+[35m[39m
+2022-07-08 19:35:17:3517 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:35:21:3521 - [35mhttp[39m: [35mPOST /api/user/ 422 121 - 17.372 ms[39m
+[35m[39m
+2022-07-08 19:35:50:3550 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:35:51:3551 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 24.379 ms[39m
+[35m[39m
+2022-07-08 19:36:29:3629 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:36:31:3631 - [32minfo[39m: [32m{[39m
+[32m  nome: '444',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$2G/4Zlv4i4YNX1mWTtytrOTilDG6Yda5WBRN7gsqQhrt2JBRJfiFa'[39m
+[32m}[39m
+2022-07-08 19:36:31:3631 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 118.958 ms[39m
+[35m[39m
+2022-07-08 19:36:54:3654 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:36:56:3656 - [32minfo[39m: [32m{[39m
+[32m  nome: '444',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$43Ugs4BxBU7OBmAT4MkrYOQfmLggXDGVTd4OyNQSzYF6jlxiqiy9q'[39m
+[32m}[39m
+2022-07-08 19:36:56:3656 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 115.582 ms[39m
+[35m[39m
+2022-07-08 19:37:15:3715 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:37:17:3717 - [35mhttp[39m: [35mPOST /api/user/ 422 38 - 28.154 ms[39m
+[35m[39m
+2022-07-08 19:38:15:3815 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:38:16:3816 - [35mhttp[39m: [35mPOST /api/user/ 422 38 - 17.319 ms[39m
+[35m[39m
+2022-07-08 19:39:15:3915 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:39:26:3926 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:39:28:3928 - [32minfo[39m: [32m{[39m
+[32m  nome: 'tttt',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$izptOWlX7N9TDMu7mHAy0OquFVi4Sfl94DHxvqRwugXcSDNUYg2B2'[39m
+[32m}[39m
+2022-07-08 19:39:28:3928 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 151.165 ms[39m
+[35m[39m
+2022-07-08 19:48:10:4810 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:48:14:4814 - [35mhttp[39m: [35mPOST /api/user/ 422 127 - 17.186 ms[39m
+[35m[39m
+2022-07-08 19:48:48:4848 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 10.965 ms[39m
+[35m[39m
+2022-07-08 19:49:02:492 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:49:03:493 - [35mhttp[39m: [35mPOST /api/user/ 422 37 - 17.189 ms[39m
+[35m[39m
+2022-07-08 19:53:05:535 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:53:15:5315 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:53:51:5351 - [32minfo[39m: [32m{[39m
+[32m  nome: '334*3',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$cBLbrnM8vvGxsMUh4GwbvOUVuBzHPgMGmXeT3pLT5v88gjTYhqdY.'[39m
+[32m}[39m
+2022-07-08 19:53:51:5351 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 103.887 ms[39m
+[35m[39m
+2022-07-08 19:58:51:5851 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:58:54:5854 - [35mhttp[39m: [35mPOST /api/user/ 422 82 - 17.538 ms[39m
+[35m[39m
+2022-07-08 19:59:10:5910 - [35mhttp[39m: [35mPOST /api/user/ 422 77 - 10.013 ms[39m
+[35m[39m
+2022-07-08 19:59:27:5927 - [35mhttp[39m: [35mPOST /api/user/ 422 51 - 4.455 ms[39m
+[35m[39m
+2022-07-08 19:59:51:5951 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 19:59:59:5959 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:00:02:02 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:00:06:06 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:02:30:230 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:02:31:231 - [35mhttp[39m: [35mPOST /api/user/ 422 72 - 16.809 ms[39m
+[35m[39m
+2022-07-08 20:02:41:241 - [35mhttp[39m: [35mPOST /api/user/ 422 72 - 3.987 ms[39m
+[35m[39m
+2022-07-08 20:02:58:258 - [35mhttp[39m: [35mPOST /api/user/ 422 72 - 3.198 ms[39m
+[35m[39m
+2022-07-08 20:03:19:319 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$a41mkCZ/fKl0UEb.LVmNz..nFuKM3KFNHB1wjEWEcsHYVYPvRFtVC'[39m
+[32m}[39m
+2022-07-08 20:03:19:319 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 91.883 ms[39m
+[35m[39m
+2022-07-08 20:03:25:325 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'augusto dos santos',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$pg/0RS8wWlwxRYf2el7R7O9/INls5qB2uqv16BhbjQ9d7FVTeX34O'[39m
+[32m}[39m
+2022-07-08 20:03:25:325 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 75.963 ms[39m
+[35m[39m
+2022-07-08 20:03:31:331 - [35mhttp[39m: [35mPOST /api/user/ 422 90 - 4.025 ms[39m
+[35m[39m
+2022-07-08 20:04:27:427 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:04:28:428 - [35mhttp[39m: [35mPOST /api/user/ 422 140 - 20.505 ms[39m
+[35m[39m
+2022-07-08 20:04:47:447 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:04:49:449 - [35mhttp[39m: [35mPOST /api/user/ 422 165 - 25.125 ms[39m
+[35m[39m
+2022-07-08 20:05:50:550 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:06:34:634 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:06:57:657 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:07:00:70 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:07:11:711 - [35mhttp[39m: [35mPOST /api/user/ 422 293 - 17.656 ms[39m
+[35m[39m
+2022-07-08 20:07:29:729 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'au',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$eatWLh5/RSGKOJtL98SFD.DtFsHJBTV7zsdCAilZUUB15xnxs96mS'[39m
+[32m}[39m
+2022-07-08 20:07:29:729 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 93.804 ms[39m
+[35m[39m
+2022-07-08 20:07:32:732 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'au',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$PLuX3gwTj2/Ck3ZSDbKZzeZoZCwfep7xPqmcD/FRxgxohTna930cK'[39m
+[32m}[39m
+2022-07-08 20:07:32:732 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 73.572 ms[39m
+[35m[39m
+2022-07-08 20:44:04:444 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'au',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$YwKCYOobKmCMpLaVROlK.ehimxEn.IZQKxudd/9IbT2PYvRaGPBvy'[39m
+[32m}[39m
+2022-07-08 20:44:04:444 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 77.612 ms[39m
+[35m[39m
+2022-07-08 20:44:31:4431 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:44:36:4436 - [35mhttp[39m: [35mPOST /api/user/ 422 56 - 15.957 ms[39m
+[35m[39m
+2022-07-08 20:45:04:454 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:45:25:4525 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:45:45:4545 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:46:17:4617 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'silva sa',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$vzw94zVHQl76BN/wGYOHZOkt/nambRPAXebFQPe5b3liL5/oH6gCW'[39m
+[32m}[39m
+2022-07-08 20:46:17:4617 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 175.958 ms[39m
+[35m[39m
+2022-07-08 20:47:02:472 - [32minfo[39m: [32m{[39m
+[32m  nome: 'eea',[39m
+[32m  sobrenome: 'silva sa',[39m
+[32m  email: 'teste@teste.com',[39m
+[32m  senha: '$2a$10$TVGP87Sm0yjAtLJ3vZJeDOSNJrQQ1FWXMsO01wLUMfhbwrRDLMnGO'[39m
+[32m}[39m
+2022-07-08 20:47:02:472 - [35mhttp[39m: [35mPOST /api/user/ 201 20 - 74.987 ms[39m
+[35m[39m
+2022-07-08 20:47:12:4712 - [35mhttp[39m: [35mPOST /api/user/ 422 56 - 4.372 ms[39m
+[35m[39m
+2022-07-08 20:48:20:4820 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-08 20:50:00:500 - [32minfo[39m: [32mlistening on 3333[39m
