@@ -1,0 +1,7 @@
+{
+    "whatch": ["src"],
+    "ext":"ts",
+    "execMap":{
+        "ts": "ts-node-dev --respawn --transpile-only src/serve.ts"
+    }
+}
