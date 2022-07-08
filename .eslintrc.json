@@ -20,6 +20,7 @@
 	},
 	"plugins": ["@typescript-eslint"],
 	"rules": {
+        "arrow-parens": ["error", "always"],
 		"prettier/prettier": [
 			"error",
 			{
@@ -30,6 +31,7 @@
 				"endOfLine": "auto"
 			}
 		],
+
 		"import/no-unresolved": [
 			2,
 			{
