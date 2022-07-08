@@ -1,9 +1,13 @@
-import express, { Request, Response } from 'express';
+import express, {Request, Response} from 'express';
 import 'dotenv/config';
 import config from 'config';
 
+import Logger from '../config/logger';
+import morganMiddleware from './middleware/morganMiddleware';
+
 const app = express();
 app.use(express.json());
+app.use(morganMiddleware);
 
 app.get('/', (req: Request, res: Response) => {
 	res.send('Projeto iniciado');
@@ -15,5 +19,5 @@ const acesso = {
 };
 
 app.listen(acesso.PORT || acesso.PORT_APP, async () => {
-	console.log(`listening on ${acesso.PORT}`);
+	Logger.info(`listening on ${acesso.PORT || acesso.PORT_APP}`);
 });
