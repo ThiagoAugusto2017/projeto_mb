@@ -1,0 +1,19 @@
+{
+  "name": "projeto_mb",
+  "version": "1.0.0",
+  "description": "Gestao eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoAugusto2017/projeto_mb.git"
+  },
+  "author": "thiago.Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoAugusto2017/projeto_mb/issues"
+  },
+  "homepage": "https://github.com/ThiagoAugusto2017/projeto_mb#readme"
+}
