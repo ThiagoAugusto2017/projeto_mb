@@ -4,7 +4,10 @@
   "description": "Gestao eventos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.{ts,json}\"",
+    "dev": "ts-node-dev --respawn --transpile-only src/serve.ts",
+    "build":"tsc -w"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,35 @@
   "bugs": {
     "url": "https://github.com/ThiagoAugusto2017/projeto_mb/issues"
   },
-  "homepage": "https://github.com/ThiagoAugusto2017/projeto_mb#readme"
+  "homepage": "https://github.com/ThiagoAugusto2017/projeto_mb#readme",
+
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^5.19.6",
+    "morgan": "^1.10.0",
+    "winston": "^3.3.3"
+  },
+
+  "devDependencies": {
+    "@types/config": "^0.0.41",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.13",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^17.0.7",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.4"
+}
 }
