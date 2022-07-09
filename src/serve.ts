@@ -1,10 +1,11 @@
 import express from 'express';
 import 'dotenv/config';
 import config from 'config';
-
+import db from './dataBase/db';
 import Logger from '../config/logger';
 import morganMiddleware from './middleware/morganMiddleware';
 import router from './routes/routes';
+import dbInit from './dataBase/init';
 
 const app = express();
 app.use(express.json());
@@ -18,5 +19,7 @@ const acesso = {
 };
 
 app.listen(acesso.PORT || acesso.PORT_APP, async () => {
+	// dbInit();
+	await db.sync();
 	Logger.info(`listening on ${acesso.PORT || acesso.PORT_APP}`);
 });
