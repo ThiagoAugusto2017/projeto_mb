@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import {InputUser} from '../controller/cadastroUsuario';
+import {InputUser} from '../controller/userLogin';
 import {validate} from '../middleware/handleValidation';
 import {userInputValidation} from '../middleware/userValidation';
 

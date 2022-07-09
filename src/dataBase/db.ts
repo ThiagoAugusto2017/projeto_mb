@@ -10,7 +10,7 @@ try {
 	db.authenticate();
 	Logger.info('Authenticated  sucess');
 } catch (err: any) {
-	Logger.error(`nao foi possivel Authenticated${err.message}`);
+	Logger.error(`Nao foi possivel Authenticated${err.message}`);
 }
 
 export default db;
