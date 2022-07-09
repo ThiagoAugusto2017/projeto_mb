@@ -1,7 +1,9 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */
 import {Request, Response} from 'express';
 import bcrypt from 'bcryptjs';
 import Logger from '../../config/logger';
+import userLogin from '../model/userLogin'
 
 export class InputUser {
 	static async input(req: Request, res: Response) {
@@ -23,11 +25,9 @@ export class InputUser {
 
 			const salt = bcrypt.genSaltSync(10);
 			const dificultSenha = bcrypt.hashSync(dataUser.senha, salt);
-			dataUser.senha = dificultSenha;
+			 dataUser.senha = dificultSenha;
 
-			Logger.info(dataUser);
-
-			// const dataUserDb = await movieModel.create(dataUser);
+             const dataLogin = await userLogin.create(dataUser);
 
 			return res.status(201).json('Usuario cadastrado');
 		} catch (e: any) {

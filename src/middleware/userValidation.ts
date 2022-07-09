@@ -1,4 +1,6 @@
+/* eslint-disable object-shorthand */
 import {check} from 'express-validator';
+import userLogin from '../model/userLogin';
 
 export const userInputValidation = () => {
 	return [
@@ -25,7 +27,19 @@ export const userInputValidation = () => {
 			.isEmpty()
 			.withMessage('Email obrigatorio')
 			.isEmail()
-			.withMessage('O email nao esta no formato correto ou invalido'),
+			.withMessage('O email nao esta no formato correto ou invalido')
+			.custom(async (email: string) => {
+				const existingUser = await userLogin.findOne({
+					raw: true,
+					where: {email: email},
+				});
+
+				if (existingUser) {
+					throw new Error(
+						'Email ja esta em uso, favor cadastrar com outro e-mail;',
+					);
+				}
+			}),
 		check('senha')
 			.isString()
 			.isLength({min: 8})

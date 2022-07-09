@@ -12,7 +12,7 @@ class userLogin extends Model<TodoAttributes> {}
 
 userLogin.init(
 	{
-		name: {
+		nome: {
 			type: DataTypes.STRING,
 			allowNull: false,
 		},

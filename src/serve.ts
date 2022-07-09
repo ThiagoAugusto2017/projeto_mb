@@ -19,7 +19,7 @@ const acesso = {
 };
 
 app.listen(acesso.PORT || acesso.PORT_APP, async () => {
-	// dbInit();
+	dbInit();
 	await db.sync();
 	Logger.info(`listening on ${acesso.PORT || acesso.PORT_APP}`);
 });
