@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import {DataTypes, Model} from 'sequelize';
 import db from '../dataBase/db';
 
@@ -8,7 +9,13 @@ interface TodoAttributes {
 	senha: string;
 }
 
-class userLogin extends Model<TodoAttributes> {}
+class userLogin extends Model<TodoAttributes> {
+	public readonly createdAt!: Date;
+
+	public readonly updatedAt!: Date;
+
+	public readonly deletedAt!: Date;
+}
 
 userLogin.init(
 	{

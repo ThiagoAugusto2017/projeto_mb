@@ -4,6 +4,7 @@ export default {
 	PORT: process.env.PORT,
 	PORT_APP: process.env.PORT_APP,
 	env: 'development',
+	secretKey: process.env.SECRETKEY,
 
 	ambiente: {
 		development: {
