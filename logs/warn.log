@@ -46,3 +46,384 @@
 2022-07-09 21:17:33:1733 - [31merror[39m: [31mErro no cadastro - Rota - input:Illegal arguments: string, undefined[39m
 2022-07-09 21:18:53:1853 - [31merror[39m: [31mErro no cadastro - Rota - input:Illegal arguments: string, undefined[39m
 2022-07-09 21:19:31:1931 - [31merror[39m: [31mErro no cadastro - Rota - input:Illegal arguments: string, undefined[39m
+2022-07-10 09:29:52:2952 - [31merror[39m: [31mErro no evento - Rota - deletar:Unknown column 'id_Usuario' in 'where clause'[39m
+2022-07-10 09:29:56:2956 - [31merror[39m: [31mErro no evento - Rota - deletar:Unknown column 'id_Usuario' in 'where clause'[39m
+2022-07-10 09:31:08:318 - [31merror[39m: [31mErro no evento - Rota - deletar:Unknown column 'id_Usuario' in 'where clause'[39m
+2022-07-10 12:06:16:616 - [31merror[39m: [31mErro no evento - Costs - input:notNull Violation: CostsModel.qtLocal cannot be null[39m
+2022-07-10 12:06:35:635 - [31merror[39m: [31mErro no evento - Costs - input:notNull Violation: CostsModel.qtLocal cannot be null[39m
+2022-07-10 12:08:03:83 - [31merror[39m: [31mErro no evento - Costs - input:notNull Violation: CostsModel.qtLocal cannot be null[39m
+2022-07-10 12:09:23:923 - [31merror[39m: [31mErro no evento - Costs - input:Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+2022-07-10 12:32:17:3217 - [31merror[39m: [31mErro no evento - Costs - input:Association with alias "id_Usuario" does not exist on CostsModel[39m
+2022-07-10 12:38:13:3813 - [31merror[39m: [31mErro no evento - Costs - input:Cannot read properties of undefined (reading '_options')[39m
+2022-07-10 12:39:19:3919 - [31merror[39m: [31mErro no evento - Costs - input:Cannot read properties of undefined (reading '0')[39m
+2022-07-10 12:39:36:3936 - [31merror[39m: [31mErro no evento - Costs - input:Cannot read properties of undefined (reading '0')[39m
+2022-07-10 13:45:56:4556 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      'xxxxx',               '4444',[39m
+[31m      'ffddfd',              'NaN',[39m
+[31m      'NaN',                 '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '2022-07-10 16:45:56',[39m
+[31m      '2022-07-10 16:45:56', '2',[39m
+[31m      '4'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '4',[39m
+[31m    index: 'costos_ibfk_4',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 13:47:44:4744 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      'xxxxx',               '4444',[39m
+[31m      'ffddfd',              'NaN',[39m
+[31m      'NaN',                 '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '2022-07-10 16:47:44',[39m
+[31m      '2022-07-10 16:47:44', '2',[39m
+[31m      '4'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '4',[39m
+[31m    index: 'costos_ibfk_4',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 14:15:53:1553 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:05:06:56 - [31merror[39m: [31mErro no cadastro - Rota - input:Cannot read properties of null (reading 'senha')[39m
+2022-07-10 15:08:22:822 - [31merror[39m: [31mErro no cadastro - Rota - input:Cannot read properties of null (reading 'senha')[39m
+2022-07-10 15:09:54:954 - [31merror[39m: [31mErro no cadastro - Rota - input:Cannot read properties of null (reading 'senha')[39m
+2022-07-10 15:24:54:2454 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      '1',                   'sssss',[39m
+[31m      '4444',                'ffddfd',[39m
+[31m      'NaN',                 'NaN',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '2022-07-10 18:24:54', '2022-07-10 18:24:54',[39m
+[31m      '1',                   '1'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '1',[39m
+[31m    index: 'costos_ibfk_2',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 15:27:50:2750 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      '7',                   'edddd5',[39m
+[31m      '4444',                'ffddfd',[39m
+[31m      'NaN',                 'NaN',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '2022-07-10 18:27:50', '2022-07-10 18:27:50',[39m
+[31m      '1',                   '7'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '7',[39m
+[31m    index: 'costos_ibfk_2',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 15:28:26:2826 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      '7',                   'edddd5',[39m
+[31m      '4444',                'ffddfd',[39m
+[31m      'NaN',                 'NaN',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '2022-07-10 18:28:26', '2022-07-10 18:28:26',[39m
+[31m      '1',                   '7'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '7',[39m
+[31m    index: 'costos_ibfk_2',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 15:30:43:3043 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:31:12:3112 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:31:14:3114 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:32:11:3211 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:33:43:3343 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:34:15:3415 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:35:04:354 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:35:17:3517 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:36:58:3658 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:37:36:3736 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:38:27:3827 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m

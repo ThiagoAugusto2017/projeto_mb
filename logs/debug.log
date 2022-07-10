@@ -1884,3 +1884,1451 @@
 2022-07-09 22:31:58:3158 - [32minfo[39m: [32mAuthenticated  sucess[39m
 2022-07-09 22:31:58:3158 - [32minfo[39m: [32mIniciado sem alteração Table[39m
 2022-07-09 22:31:58:3158 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:09:54:954 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:09:54:954 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:09:55:955 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:10:00:100 - [35mhttp[39m: [35mPOST /api/evento/ 401 16 - 15.472 ms[39m
+[35m[39m
+2022-07-10 07:11:00:110 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:11:00:110 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:11:00:110 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:12:42:1242 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:12:43:1243 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:12:43:1243 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:12:49:1249 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:12:49:1249 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:12:49:1249 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:13:03:133 - [35mhttp[39m: [35mPOST /api/login 200 329 - 177.830 ms[39m
+[35m[39m
+2022-07-10 07:16:04:164 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:16:05:165 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:16:05:165 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:16:21:1621 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:16:21:1621 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:16:21:1621 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:16:33:1633 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:16:34:1634 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:16:34:1634 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:18:58:1858 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:18:59:1859 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:18:59:1859 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:19:28:1928 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:19:28:1928 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:19:28:1928 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:20:05:205 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:20:06:206 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:20:06:206 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:20:33:2033 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:20:33:2033 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:20:33:2033 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:20:46:2046 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:20:46:2046 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:20:46:2046 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:21:02:212 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:21:02:212 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:21:02:212 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:21:12:2112 - [35mhttp[39m: [35mPOST /api/evento/ 401 26 - 9.352 ms[39m
+[35m[39m
+2022-07-10 07:21:52:2152 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:21:53:2153 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:21:53:2153 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:50:22:5022 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:50:22:5022 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:50:22:5022 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:51:48:5148 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:51:48:5148 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:51:48:5148 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:53:40:5340 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:53:40:5340 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:53:40:5340 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:58:55:5855 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:58:56:5856 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:58:56:5856 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 07:59:13:5913 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 07:59:13:5913 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 07:59:13:5913 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:00:59:059 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:00:59:059 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:00:59:059 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:02:20:220 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:02:20:220 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:02:20:220 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:02:29:229 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:02:29:229 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:02:29:229 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:03:27:327 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:03:27:327 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:03:28:328 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:03:58:358 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:03:58:358 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:03:59:359 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:04:14:414 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:04:15:415 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:04:15:415 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:04:23:423 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:04:23:423 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:04:23:423 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:04:56:456 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:04:56:456 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:04:56:456 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:05:01:51 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:05:01:51 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:05:01:51 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:05:58:558 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:05:58:558 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:05:59:559 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:06:23:623 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:06:24:624 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:06:24:624 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:07:00:70 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 92.909 ms[39m
+[35m[39m
+2022-07-10 08:07:55:755 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:07:55:755 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:07:55:755 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:08:11:811 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:08:11:811 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:08:11:811 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:08:19:819 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:08:19:819 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:08:19:819 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:27:40:2740 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:27:40:2740 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:27:40:2740 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:27:42:2742 - [35mhttp[39m: [35mPATCH /api/evento/ 201 62 - 60.950 ms[39m
+[35m[39m
+2022-07-10 08:28:54:2854 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:28:54:2854 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:28:54:2854 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:28:59:2859 - [35mhttp[39m: [35mPATCH /api/evento/ 201 60 - 31.399 ms[39m
+[35m[39m
+2022-07-10 08:29:16:2916 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:29:16:2916 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:29:16:2916 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:29:44:2944 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:29:44:2944 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:29:45:2945 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:29:47:2947 - [35mhttp[39m: [35mPATCH /api/evento/ 201 49 - 23.271 ms[39m
+[35m[39m
+2022-07-10 08:32:18:3218 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:32:18:3218 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:32:18:3218 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:34:02:342 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:34:02:342 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:34:02:342 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:34:10:3410 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:34:10:3410 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:34:10:3410 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:34:47:3447 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:34:47:3447 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:34:47:3447 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:35:42:3542 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:35:42:3542 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:35:42:3542 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:36:16:3616 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:36:16:3616 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:36:16:3616 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:36:31:3631 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:36:31:3631 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:36:31:3631 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:36:53:3653 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:36:53:3653 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:36:53:3653 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:37:06:376 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:37:06:376 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:37:06:376 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:39:28:3928 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:39:28:3928 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:39:28:3928 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 08:41:21:4121 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 08:41:21:4121 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 08:41:21:4121 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:25:00:250 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:25:00:250 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:25:00:250 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:25:35:2535 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:25:35:2535 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:25:35:2535 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:25:45:2545 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:25:45:2545 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:25:45:2545 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:29:18:2918 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:29:18:2918 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:29:18:2918 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:29:30:2930 - [35mhttp[39m: [35mPATCH /api/evento/?id=1 201 49 - 97.477 ms[39m
+[35m[39m
+2022-07-10 09:29:41:2941 - [35mhttp[39m: [35mDELETE /api/evento/?id=1 404 153 - 1.095 ms[39m
+[35m[39m
+2022-07-10 09:29:52:2952 - [31merror[39m: [31mErro no evento - Rota - deletar:Unknown column 'id_Usuario' in 'where clause'[39m
+2022-07-10 09:29:52:2952 - [35mhttp[39m: [35mDELETE /api/evento/1 500 38 - 16.352 ms[39m
+[35m[39m
+2022-07-10 09:29:56:2956 - [31merror[39m: [31mErro no evento - Rota - deletar:Unknown column 'id_Usuario' in 'where clause'[39m
+2022-07-10 09:29:56:2956 - [35mhttp[39m: [35mDELETE /api/evento/1 500 38 - 9.898 ms[39m
+[35m[39m
+2022-07-10 09:31:06:316 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:31:06:316 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:31:07:317 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:31:08:318 - [31merror[39m: [31mErro no evento - Rota - deletar:Unknown column 'id_Usuario' in 'where clause'[39m
+2022-07-10 09:31:08:318 - [35mhttp[39m: [35mDELETE /api/evento/1 500 38 - 21.176 ms[39m
+[35m[39m
+2022-07-10 09:31:25:3125 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:31:25:3125 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:31:25:3125 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:31:30:3130 - [35mhttp[39m: [35mDELETE /api/evento/10 200 46 - 14.845 ms[39m
+[35m[39m
+2022-07-10 09:31:44:3144 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:31:44:3144 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:31:44:3144 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:31:46:3146 - [35mhttp[39m: [35mDELETE /api/evento/10 200 46 - 17.654 ms[39m
+[35m[39m
+2022-07-10 09:32:07:327 - [35mhttp[39m: [35mDELETE /api/evento/1 200 46 - 13.730 ms[39m
+[35m[39m
+2022-07-10 09:32:24:3224 - [35mhttp[39m: [35mDELETE /api/evento/1 200 46 - 7.910 ms[39m
+[35m[39m
+2022-07-10 09:32:30:3230 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:32:30:3230 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:32:30:3230 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:32:31:3231 - [35mhttp[39m: [35mDELETE /api/evento/1 200 46 - 11.905 ms[39m
+[35m[39m
+2022-07-10 09:35:16:3516 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:35:17:3517 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:35:17:3517 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:35:31:3531 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:35:31:3531 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:35:31:3531 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:35:35:3535 - [35mhttp[39m: [35mDELETE /api/evento/1 200 46 - 13.937 ms[39m
+[35m[39m
+2022-07-10 09:35:51:3551 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:35:51:3551 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:35:51:3551 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:35:54:3554 - [35mhttp[39m: [35mDELETE /api/evento/1 200 41 - 13.142 ms[39m
+[35m[39m
+2022-07-10 09:36:25:3625 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:36:25:3625 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:36:25:3625 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:37:07:377 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:37:08:378 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:37:08:378 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:37:47:3747 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:37:47:3747 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:37:47:3747 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:38:17:3817 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:38:18:3818 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:38:18:3818 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:39:05:395 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:39:05:395 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:39:05:395 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:39:20:3920 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:39:20:3920 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:39:20:3920 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:39:30:3930 - [35mhttp[39m: [35mPATCH /api/evento/1 201 49 - 22.249 ms[39m
+[35m[39m
+2022-07-10 09:39:54:3954 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:39:54:3954 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:39:54:3954 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:40:05:405 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:40:05:405 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:40:05:405 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:40:12:4012 - [35mhttp[39m: [35mPATCH /api/evento/1 201 49 - 25.990 ms[39m
+[35m[39m
+2022-07-10 09:40:24:4024 - [35mhttp[39m: [35mPATCH /api/evento/10 201 49 - 11.473 ms[39m
+[35m[39m
+2022-07-10 09:40:38:4038 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:40:39:4039 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:40:39:4039 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:40:40:4040 - [35mhttp[39m: [35mPATCH /api/evento/10 201 49 - 28.473 ms[39m
+[35m[39m
+2022-07-10 09:40:49:4049 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:40:49:4049 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:40:50:4050 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:40:53:4053 - [35mhttp[39m: [35mPATCH /api/evento/10 404 41 - 20.095 ms[39m
+[35m[39m
+2022-07-10 09:40:58:4058 - [35mhttp[39m: [35mPATCH /api/evento/10 404 41 - 8.374 ms[39m
+[35m[39m
+2022-07-10 09:41:13:4113 - [35mhttp[39m: [35mPATCH /api/evento/1 404 41 - 9.392 ms[39m
+[35m[39m
+2022-07-10 09:41:33:4133 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:41:33:4133 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:41:34:4134 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:41:52:4152 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:41:53:4153 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:41:53:4153 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:43:27:4327 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:43:27:4327 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:43:27:4327 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:51:40:5140 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:51:40:5140 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:51:41:5141 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:52:18:5218 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:52:18:5218 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:52:18:5218 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:53:04:534 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:53:04:534 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:53:04:534 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:53:54:5354 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:53:54:5354 - [32minfo[39m: [32mTable sendo recriadas[39m
+2022-07-10 09:53:54:5354 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:54:31:5431 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:54:32:5432 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:54:32:5432 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 09:55:31:5531 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 28.770 ms[39m
+[35m[39m
+2022-07-10 09:55:56:5556 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 15.998 ms[39m
+[35m[39m
+2022-07-10 09:56:26:5626 - [35mhttp[39m: [35mPATCH /api/evento/1 404 41 - 13.855 ms[39m
+[35m[39m
+2022-07-10 09:56:33:5633 - [35mhttp[39m: [35mPATCH /api/evento/2 201 49 - 7.032 ms[39m
+[35m[39m
+2022-07-10 09:56:53:5653 - [35mhttp[39m: [35mDELETE /api/evento/1 404 41 - 11.590 ms[39m
+[35m[39m
+2022-07-10 09:57:02:572 - [35mhttp[39m: [35mDELETE /api/evento/2 200 46 - 5.494 ms[39m
+[35m[39m
+2022-07-10 09:59:16:5916 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 09:59:16:5916 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 09:59:17:5917 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:00:53:053 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:00:53:053 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:00:53:053 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:01:58:158 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:01:58:158 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:01:59:159 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:03:39:339 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:03:39:339 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:03:39:339 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:04:18:418 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:04:18:418 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:04:18:418 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:04:28:428 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:04:28:428 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:04:29:429 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:05:39:539 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:05:39:539 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:05:40:540 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:05:49:549 - [35mhttp[39m: [35mGET /api/evento/ 200 451 - 41.015 ms[39m
+[35m[39m
+2022-07-10 10:06:02:62 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:06:02:62 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:06:02:62 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:06:04:64 - [35mhttp[39m: [35mGET /api/evento/ 200 453 - 41.499 ms[39m
+[35m[39m
+2022-07-10 10:06:28:628 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:06:29:629 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:06:29:629 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:08:46:846 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:08:46:846 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:08:46:846 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:09:16:916 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:09:16:916 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:09:16:916 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:09:18:918 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:09:18:918 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:09:18:918 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 10:09:20:920 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 10:09:20:920 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 10:09:20:920 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:00:25:025 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:00:26:026 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:00:26:026 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:03:55:355 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:03:55:355 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:03:55:355 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:05:15:515 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:05:15:515 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:05:15:515 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:05:53:553 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:05:53:553 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:05:53:553 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:11:02:112 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:11:02:112 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:11:02:112 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:28:23:2823 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:28:23:2823 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:28:23:2823 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:28:51:2851 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:28:52:2852 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:28:52:2852 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:30:50:3050 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:30:51:3051 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:30:51:3051 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:31:06:316 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:31:06:316 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:31:06:316 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:35:36:3536 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:35:37:3537 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:35:37:3537 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:36:03:363 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:36:04:364 - [32minfo[39m: [32mTable sendo recriadas[39m
+2022-07-10 11:36:04:364 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:38:24:3824 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:38:25:3825 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:38:25:3825 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:40:06:406 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:40:07:407 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:40:07:407 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:41:40:4140 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:41:40:4140 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:41:40:4140 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:43:06:436 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:43:06:436 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:43:06:436 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:45:55:4555 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:45:55:4555 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:45:56:4556 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:46:06:466 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:46:06:466 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:46:06:466 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:46:24:4624 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:46:24:4624 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:46:24:4624 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:49:07:497 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:49:08:498 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:49:08:498 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:54:54:5454 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:54:54:5454 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:54:54:5454 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:56:15:5615 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:56:15:5615 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:56:15:5615 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:56:25:5625 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:56:25:5625 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:56:25:5625 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:56:36:5636 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:56:36:5636 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:56:37:5637 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:57:07:577 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:57:07:577 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:57:07:577 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:57:12:5712 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:57:12:5712 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:57:12:5712 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:57:48:5748 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:57:48:5748 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:57:48:5748 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:58:33:5833 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:58:34:5834 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:58:34:5834 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:58:50:5850 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:58:50:5850 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:58:50:5850 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:59:14:5914 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:59:14:5914 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:59:14:5914 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 11:59:25:5925 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 11:59:26:5926 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 11:59:26:5926 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:00:02:02 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:00:03:03 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:00:03:03 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:03:39:339 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:03:39:339 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:03:40:340 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:03:51:351 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:03:52:352 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:03:52:352 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:04:17:417 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:04:17:417 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:04:17:417 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:05:43:543 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:05:44:544 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:05:44:544 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:05:48:548 - [35mhttp[39m: [35mPOST /api/evento/costs/:id 404 160 - 3.357 ms[39m
+[35m[39m
+2022-07-10 12:06:16:616 - [31merror[39m: [31mErro no evento - Costs - input:notNull Violation: CostsModel.qtLocal cannot be null[39m
+2022-07-10 12:06:16:616 - [35mhttp[39m: [35mPOST /api/evento/:id/costs/ 500 38 - 106.249 ms[39m
+[35m[39m
+2022-07-10 12:06:35:635 - [31merror[39m: [31mErro no evento - Costs - input:notNull Violation: CostsModel.qtLocal cannot be null[39m
+2022-07-10 12:06:35:635 - [35mhttp[39m: [35mPOST /api/evento/1/costs/ 500 38 - 23.045 ms[39m
+[35m[39m
+2022-07-10 12:08:03:83 - [31merror[39m: [31mErro no evento - Costs - input:notNull Violation: CostsModel.qtLocal cannot be null[39m
+2022-07-10 12:08:03:83 - [35mhttp[39m: [35mPOST /api/evento/1/costs/ 500 38 - 23.401 ms[39m
+[35m[39m
+2022-07-10 12:09:23:923 - [31merror[39m: [31mErro no evento - Costs - input:Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+2022-07-10 12:09:23:923 - [35mhttp[39m: [35mPOST /api/evento/1/costs/ 500 38 - 91.417 ms[39m
+[35m[39m
+2022-07-10 12:12:12:1212 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:12:13:1213 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:12:13:1213 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:12:33:1233 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:12:34:1234 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:12:34:1234 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:12:37:1237 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:12:37:1237 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:12:37:1237 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:14:11:1411 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:14:11:1411 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:14:11:1411 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:14:50:1450 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:14:50:1450 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:14:51:1451 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:16:39:1639 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:16:39:1639 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:16:40:1640 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:17:02:172 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:17:02:172 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:17:03:173 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:17:17:1717 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:17:17:1717 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:17:18:1718 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:18:10:1810 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:18:11:1811 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:18:11:1811 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:20:33:2033 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:20:33:2033 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:20:33:2033 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:20:54:2054 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:20:54:2054 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:20:54:2054 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:21:08:218 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:21:08:218 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:21:09:219 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:21:34:2134 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:21:34:2134 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:21:34:2134 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:22:20:2220 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:22:20:2220 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:22:20:2220 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:22:58:2258 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:22:58:2258 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:22:58:2258 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:23:19:2319 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:23:19:2319 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:23:19:2319 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:24:00:240 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:24:00:240 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:24:00:240 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:24:17:2417 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:24:17:2417 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:24:18:2418 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:25:11:2511 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:25:11:2511 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:25:12:2512 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:25:40:2540 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:25:40:2540 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:25:40:2540 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:27:02:272 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:27:03:273 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:27:03:273 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:29:00:290 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:29:00:290 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:29:00:290 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:29:36:2936 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:29:37:2937 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:29:37:2937 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:30:03:303 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:30:03:303 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:30:03:303 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:31:16:3116 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:31:16:3116 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:31:16:3116 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:32:12:3212 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:32:13:3213 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:32:13:3213 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:32:17:3217 - [31merror[39m: [31mErro no evento - Costs - input:Association with alias "id_Usuario" does not exist on CostsModel[39m
+2022-07-10 12:32:17:3217 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 500 38 - 37.486 ms[39m
+[35m[39m
+2022-07-10 12:32:53:3253 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:32:53:3253 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:32:53:3253 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:34:09:349 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:34:09:349 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:34:09:349 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:34:15:3415 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:34:16:3416 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:34:16:3416 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:34:54:3454 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:34:54:3454 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:34:54:3454 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:35:57:3557 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:35:58:3558 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:35:58:3558 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:36:33:3633 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:36:33:3633 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:36:33:3633 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:37:55:3755 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:37:55:3755 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:37:55:3755 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:38:12:3812 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:38:12:3812 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:38:12:3812 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:38:13:3813 - [31merror[39m: [31mErro no evento - Costs - input:Cannot read properties of undefined (reading '_options')[39m
+2022-07-10 12:38:13:3813 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 500 38 - 27.046 ms[39m
+[35m[39m
+2022-07-10 12:39:17:3917 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:39:17:3917 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:39:17:3917 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:39:19:3919 - [31merror[39m: [31mErro no evento - Costs - input:Cannot read properties of undefined (reading '0')[39m
+2022-07-10 12:39:19:3919 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 500 38 - 20.002 ms[39m
+[35m[39m
+2022-07-10 12:39:35:3935 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:39:36:3936 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:39:36:3936 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:39:36:3936 - [31merror[39m: [31mErro no evento - Costs - input:Cannot read properties of undefined (reading '0')[39m
+2022-07-10 12:39:36:3936 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 500 38 - 24.934 ms[39m
+[35m[39m
+2022-07-10 12:40:05:405 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:40:05:405 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:40:06:406 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:40:36:4036 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:40:37:4037 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:40:37:4037 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:51:50:5150 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:51:50:5150 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:51:50:5150 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:52:09:529 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:52:10:5210 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:52:10:5210 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:52:21:5221 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:52:21:5221 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:52:22:5222 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:53:11:5311 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:53:11:5311 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:53:11:5311 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:55:50:5550 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:55:51:5551 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:55:51:5551 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:56:52:5652 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:56:52:5652 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:56:52:5652 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:57:31:5731 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:57:31:5731 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:57:31:5731 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 12:58:54:5854 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 12:58:54:5854 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 12:58:54:5854 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:00:44:044 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:00:44:044 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:00:44:044 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:01:29:129 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:01:29:129 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:01:29:129 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:01:57:157 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:01:58:158 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:01:58:158 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:12:55:1255 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:12:55:1255 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:12:55:1255 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:13:10:1310 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:13:10:1310 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:13:10:1310 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:13:27:1327 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:13:27:1327 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:13:27:1327 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:14:57:1457 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:14:57:1457 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:14:57:1457 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:20:42:2042 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:20:42:2042 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:20:42:2042 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:21:25:2125 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:21:25:2125 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:21:25:2125 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:21:43:2143 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:21:43:2143 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:21:43:2143 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:22:30:2230 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:22:31:2231 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:22:31:2231 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:23:14:2314 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:23:14:2314 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:23:14:2314 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:23:28:2328 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:23:28:2328 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:23:29:2329 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:27:07:277 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:27:07:277 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:27:08:278 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:28:24:2824 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:28:24:2824 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:28:25:2825 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:28:32:2832 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:28:32:2832 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:28:32:2832 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:28:34:2834 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 41 - 21.301 ms[39m
+[35m[39m
+2022-07-10 13:29:17:2917 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:29:17:2917 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:29:17:2917 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:29:45:2945 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:29:45:2945 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:29:46:2946 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:29:51:2951 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:29:51:2951 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:29:51:2951 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:30:10:3010 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:30:10:3010 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:30:11:3011 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:30:15:3015 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:30:15:3015 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:30:15:3015 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:31:31:3131 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:31:31:3131 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:31:32:3132 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:31:42:3142 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:31:43:3143 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:31:43:3143 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:31:50:3150 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:31:50:3150 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:31:51:3151 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:32:15:3215 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:32:15:3215 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:32:15:3215 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:32:38:3238 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:32:38:3238 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:32:38:3238 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:32:52:3252 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:32:52:3252 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:32:52:3252 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:33:05:335 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:33:06:336 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:33:06:336 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:33:33:3333 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:33:33:3333 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:33:33:3333 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:33:38:3338 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:33:38:3338 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:33:38:3338 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:33:59:3359 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:33:59:3359 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:33:59:3359 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:35:15:3515 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:35:15:3515 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:35:15:3515 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:35:41:3541 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:35:41:3541 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:35:41:3541 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:35:49:3549 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:35:49:3549 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:35:49:3549 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:35:59:3559 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:36:00:360 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:36:00:360 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:36:16:3616 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:36:16:3616 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:36:16:3616 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:36:29:3629 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 41 - 26.675 ms[39m
+[35m[39m
+2022-07-10 13:36:47:3647 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 41 - 21.063 ms[39m
+[35m[39m
+2022-07-10 13:37:07:377 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:37:07:377 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:37:08:378 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:37:11:3711 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 41 - 23.090 ms[39m
+[35m[39m
+2022-07-10 13:37:51:3751 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:37:52:3752 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:37:52:3752 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:38:02:382 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:38:02:382 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:38:02:382 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:38:29:3829 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:38:29:3829 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:38:30:3830 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:38:32:3832 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 41 - 27.838 ms[39m
+[35m[39m
+2022-07-10 13:39:17:3917 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:39:17:3917 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:39:17:3917 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:40:13:4013 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:40:13:4013 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:40:13:4013 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:40:28:4028 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:40:28:4028 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:40:29:4029 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:41:47:4147 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:41:47:4147 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:41:48:4148 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:41:49:4149 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 41 - 38.608 ms[39m
+[35m[39m
+2022-07-10 13:43:26:4326 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:43:26:4326 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:43:26:4326 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:45:38:4538 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:45:38:4538 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:45:38:4538 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:45:44:4544 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 77 - 18.419 ms[39m
+[35m[39m
+2022-07-10 13:45:56:4556 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      'xxxxx',               '4444',[39m
+[31m      'ffddfd',              'NaN',[39m
+[31m      'NaN',                 '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '2022-07-10 16:45:56',[39m
+[31m      '2022-07-10 16:45:56', '2',[39m
+[31m      '4'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '4',[39m
+[31m    index: 'costos_ibfk_4',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 13:47:42:4742 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:47:42:4742 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:47:42:4742 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:47:44:4744 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_4` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (DEFAULT,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      'xxxxx',               '4444',[39m
+[31m      'ffddfd',              'NaN',[39m
+[31m      'NaN',                 '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '2022-07-10 16:47:44',[39m
+[31m      '2022-07-10 16:47:44', '2',[39m
+[31m      '4'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '4',[39m
+[31m    index: 'costos_ibfk_4',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 13:50:23:5023 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:50:23:5023 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:50:23:5023 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:50:26:5026 - [35mhttp[39m: [35mPOST /api/evento/3/costs/ 404 77 - 19.252 ms[39m
+[35m[39m
+2022-07-10 13:51:07:517 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 28.493 ms[39m
+[35m[39m
+2022-07-10 13:51:51:5151 - [35mhttp[39m: [35mPOST /api/evento/4/costs/ 201 75 - 25.332 ms[39m
+[35m[39m
+2022-07-10 13:52:40:5240 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 15.563 ms[39m
+[35m[39m
+2022-07-10 13:52:42:5242 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 9.627 ms[39m
+[35m[39m
+2022-07-10 13:52:56:5256 - [35mhttp[39m: [35mPOST /api/evento/5/costs/ 201 75 - 18.604 ms[39m
+[35m[39m
+2022-07-10 13:54:10:5410 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:54:10:5410 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:54:11:5411 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 13:54:21:5421 - [35mhttp[39m: [35mPOST /api/evento/5/costs/ 404 77 - 28.703 ms[39m
+[35m[39m
+2022-07-10 13:54:27:5427 - [35mhttp[39m: [35mPOST /api/evento/5/costs/ 404 77 - 9.341 ms[39m
+[35m[39m
+2022-07-10 13:55:05:555 - [35mhttp[39m: [35mPOST /api/login 200 331 - 141.248 ms[39m
+[35m[39m
+2022-07-10 13:55:40:5540 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 18.506 ms[39m
+[35m[39m
+2022-07-10 13:56:11:5611 - [35mhttp[39m: [35mPOST /api/evento/5/costs/ 404 77 - 9.188 ms[39m
+[35m[39m
+2022-07-10 13:56:28:5628 - [35mhttp[39m: [35mPOST /api/evento/5/costs/ 404 77 - 8.707 ms[39m
+[35m[39m
+2022-07-10 13:57:33:5733 - [35mhttp[39m: [35mPOST /api/evento/7/costs/ 201 75 - 25.074 ms[39m
+[35m[39m
+2022-07-10 13:58:19:5819 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 13:58:19:5819 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 13:58:19:5819 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:00:50:050 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:00:50:050 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:00:50:050 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:02:38:238 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:02:38:238 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:02:38:238 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:03:43:343 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:03:43:343 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:03:43:343 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:03:45:345 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:03:45:345 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:03:45:345 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:05:47:547 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:05:47:547 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:05:48:548 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:08:13:813 - [35mhttp[39m: [35mPATCH /api/evento/7/costs/ 201 49 - 29.156 ms[39m
+[35m[39m
+2022-07-10 14:09:22:922 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:09:22:922 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:09:22:922 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:09:53:953 - [35mhttp[39m: [35mPATCH /api/evento/6/costs/ 404 41 - 31.144 ms[39m
+[35m[39m
+2022-07-10 14:10:28:1028 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:10:28:1028 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:10:28:1028 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:10:36:1036 - [35mhttp[39m: [35mPATCH /api/evento/6/costs/ 404 41 - 32.416 ms[39m
+[35m[39m
+2022-07-10 14:12:31:1231 - [35mhttp[39m: [35mPOST /api/evento/7/costs/ 404 77 - 22.565 ms[39m
+[35m[39m
+2022-07-10 14:13:49:1349 - [35mhttp[39m: [35mPATCH /api/evento/7/costs/ 201 61 - 15.035 ms[39m
+[35m[39m
+2022-07-10 14:14:58:1458 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:14:58:1458 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:14:58:1458 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:15:48:1548 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:15:49:1549 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:15:49:1549 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:15:53:1553 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 14:15:53:1553 - [35mhttp[39m: [35mPATCH /api/evento/7/costs/ 500 38 - 28.347 ms[39m
+[35m[39m
+2022-07-10 14:29:13:2913 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:29:13:2913 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:29:13:2913 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:29:26:2926 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:29:26:2926 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:29:26:2926 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:30:10:3010 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:30:10:3010 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:30:10:3010 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:31:08:318 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:31:08:318 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:31:08:318 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:31:24:3124 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:31:24:3124 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:31:24:3124 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:31:35:3135 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:31:35:3135 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:31:35:3135 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:32:21:3221 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:32:22:3222 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:32:22:3222 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:33:22:3322 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:33:22:3322 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:33:22:3322 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:34:11:3411 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:34:11:3411 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:34:11:3411 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:34:53:3453 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:34:54:3454 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:34:54:3454 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:35:44:3544 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:35:44:3544 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:35:44:3544 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:38:26:3826 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:38:26:3826 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:38:26:3826 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:39:45:3945 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:39:45:3945 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:39:45:3945 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:40:52:4052 - [35mhttp[39m: [35mPOST /api/evento/ 201 31 - 60.202 ms[39m
+[35m[39m
+2022-07-10 14:41:34:4134 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:41:34:4134 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:41:34:4134 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:46:06:466 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:46:06:466 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:46:06:466 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:48:16:4816 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:48:16:4816 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:48:16:4816 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:49:19:4919 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:49:19:4919 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:49:19:4919 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:52:48:5248 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:52:49:5249 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:52:49:5249 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:53:46:5346 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:53:46:5346 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:53:46:5346 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 14:53:49:5349 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 14:53:49:5349 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 14:53:49:5349 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:01:16:116 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:01:16:116 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:01:16:116 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:02:08:28 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:02:08:28 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:02:08:28 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:02:23:223 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:02:23:223 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:02:23:223 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:03:56:356 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:03:57:357 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:03:58:358 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:04:55:455 - [35mhttp[39m: [35mPOST /api/login/cadastro 201 20 - 140.518 ms[39m
+[35m[39m
+2022-07-10 15:05:06:56 - [31merror[39m: [31mErro no cadastro - Rota - input:Cannot read properties of null (reading 'senha')[39m
+2022-07-10 15:05:06:56 - [35mhttp[39m: [35mPOST /api/login 500 38 - 25.562 ms[39m
+[35m[39m
+2022-07-10 15:08:22:822 - [31merror[39m: [31mErro no cadastro - Rota - input:Cannot read properties of null (reading 'senha')[39m
+2022-07-10 15:08:22:822 - [35mhttp[39m: [35mPOST /api/login 500 38 - 6.346 ms[39m
+[35m[39m
+2022-07-10 15:09:49:949 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:09:49:949 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:09:49:949 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:09:54:954 - [31merror[39m: [31mErro no cadastro - Rota - input:Cannot read properties of null (reading 'senha')[39m
+2022-07-10 15:09:54:954 - [35mhttp[39m: [35mPOST /api/login 500 38 - 14.781 ms[39m
+[35m[39m
+2022-07-10 15:11:38:1138 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:11:38:1138 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:11:39:1139 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:11:46:1146 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:11:46:1146 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:11:47:1147 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:11:52:1152 - [35mhttp[39m: [35mPOST /api/login 404 51 - 9.933 ms[39m
+[35m[39m
+2022-07-10 15:12:06:126 - [35mhttp[39m: [35mPOST /api/login 200 324 - 111.750 ms[39m
+[35m[39m
+2022-07-10 15:14:05:145 - [35mhttp[39m: [35mPOST /api/usuario/ 201 33 - 36.584 ms[39m
+[35m[39m
+2022-07-10 15:14:58:1458 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:14:59:1459 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:14:59:1459 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:15:07:157 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:15:07:157 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:15:07:157 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:15:16:1516 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:15:17:1517 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:15:17:1517 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:16:17:1617 - [35mhttp[39m: [35mPOST /api/usuario/ 201 51 - 41.930 ms[39m
+[35m[39m
+2022-07-10 15:17:17:1717 - [35mhttp[39m: [35mPOST /api/evento/ 201 49 - 19.153 ms[39m
+[35m[39m
+2022-07-10 15:17:37:1737 - [35mhttp[39m: [35mPOST /api/evento/ 201 49 - 11.130 ms[39m
+[35m[39m
+2022-07-10 15:17:52:1752 - [35mhttp[39m: [35mGET /api/evento/ 200 62 - 22.005 ms[39m
+[35m[39m
+2022-07-10 15:18:25:1825 - [35mhttp[39m: [35mGET /api/evento/ 200 845 - 36.848 ms[39m
+[35m[39m
+2022-07-10 15:18:54:1854 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:18:54:1854 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:18:54:1854 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:19:03:193 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:19:04:194 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:19:04:194 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:19:13:1913 - [35mhttp[39m: [35mGET /api/evento/ 200 845 - 13.744 ms[39m
+[35m[39m
+2022-07-10 15:20:00:200 - [35mhttp[39m: [35mPATCH /api/evento/2 404 41 - 33.367 ms[39m
+[35m[39m
+2022-07-10 15:20:17:2017 - [35mhttp[39m: [35mPATCH /api/evento/2 404 41 - 12.028 ms[39m
+[35m[39m
+2022-07-10 15:21:35:2135 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:21:35:2135 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:21:35:2135 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:21:39:2139 - [35mhttp[39m: [35mPATCH /api/evento/2 404 41 - 26.230 ms[39m
+[35m[39m
+2022-07-10 15:22:04:224 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:22:04:224 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:22:04:224 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:22:17:2217 - [35mhttp[39m: [35mPATCH /api/evento/2 201 49 - 27.470 ms[39m
+[35m[39m
+2022-07-10 15:22:25:2225 - [35mhttp[39m: [35mPATCH /api/evento/20 404 41 - 6.704 ms[39m
+[35m[39m
+2022-07-10 15:22:33:2233 - [35mhttp[39m: [35mPATCH /api/evento/2 201 49 - 9.177 ms[39m
+[35m[39m
+2022-07-10 15:22:38:2238 - [35mhttp[39m: [35mPATCH /api/evento/2 201 49 - 12.491 ms[39m
+[35m[39m
+2022-07-10 15:22:50:2250 - [35mhttp[39m: [35mPATCH /api/evento/www 404 41 - 6.884 ms[39m
+[35m[39m
+2022-07-10 15:22:52:2252 - [35mhttp[39m: [35mPATCH /api/evento/www 404 41 - 6.226 ms[39m
+[35m[39m
+2022-07-10 15:23:03:233 - [35mhttp[39m: [35mPATCH /api/evento/1 201 49 - 11.289 ms[39m
+[35m[39m
+2022-07-10 15:23:34:2334 - [35mhttp[39m: [35mDELETE /api/evento/1 200 46 - 19.617 ms[39m
+[35m[39m
+2022-07-10 15:23:42:2342 - [35mhttp[39m: [35mDELETE /api/evento/10 404 41 - 3.054 ms[39m
+[35m[39m
+2022-07-10 15:24:01:241 - [35mhttp[39m: [35mDELETE /api/evento/10 404 41 - 4.053 ms[39m
+[35m[39m
+2022-07-10 15:24:54:2454 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      '1',                   'sssss',[39m
+[31m      '4444',                'ffddfd',[39m
+[31m      'NaN',                 'NaN',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '2022-07-10 18:24:54', '2022-07-10 18:24:54',[39m
+[31m      '1',                   '1'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '1',[39m
+[31m    index: 'costos_ibfk_2',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 15:25:04:254 - [35mhttp[39m: [35mGET /api/evento/ 200 446 - 13.608 ms[39m
+[35m[39m
+2022-07-10 15:25:24:2524 - [35mhttp[39m: [35mGET /api/evento/ 200 446 - 8.867 ms[39m
+[35m[39m
+2022-07-10 15:27:20:2720 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:27:20:2720 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:27:21:2721 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:27:50:2750 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      '7',                   'edddd5',[39m
+[31m      '4444',                'ffddfd',[39m
+[31m      'NaN',                 'NaN',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '2022-07-10 18:27:50', '2022-07-10 18:27:50',[39m
+[31m      '1',                   '7'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '7',[39m
+[31m    index: 'costos_ibfk_2',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 15:28:22:2822 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:28:22:2822 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:28:22:2822 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:28:26:2826 - [31merror[39m: [31m{[39m
+[31m  erro: ForeignKeyConstraintError [SequelizeForeignKeyConstraintError]: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m      at Query.formatError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:233:16)[39m
+[31m      at Execute.handler [as onResult] (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)[39m
+[31m      at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:36:14)[39m
+[31m      at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m      at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m      at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m      at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m      at Socket.emit (node:events:526:28)[39m
+[31m      at addChunk (node:internal/streams/readable:315:12)[39m
+[31m      at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m      at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m    parent: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    original: Error: Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)[39m
+[31m        at Packet.asError (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packets\packet.js:728:17)[39m
+[31m        at Execute.execute (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\commands\command.js:29:26)[39m
+[31m        at Connection.handlePacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:456:32)[39m
+[31m        at PacketParser.onPacket (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:85:12)[39m
+[31m        at PacketParser.executeStart (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\packet_parser.js:75:16)[39m
+[31m        at Socket.<anonymous> (C:\Users\Thiago.Dev\Desktop\Projetos - DH\Projeto_mb\node_modules\mysql2\lib\connection.js:92:25)[39m
+[31m        at Socket.emit (node:events:526:28)[39m
+[31m        at addChunk (node:internal/streams/readable:315:12)[39m
+[31m        at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m        at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m        at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {[39m
+[31m      code: 'ER_NO_REFERENCED_ROW_2',[39m
+[31m      errno: 1452,[39m
+[31m      sqlState: '23000',[39m
+[31m      sqlMessage: 'Cannot add or update a child row: a foreign key constraint fails (`mb_teste`.`costos`, CONSTRAINT `costos_ibfk_2` FOREIGN KEY (`id_Evento`) REFERENCES `eventos` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)',[39m
+[31m      sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m      parameters: [Array][39m
+[31m    },[39m
+[31m    sql: 'INSERT INTO `costos` (`id`,`produtora`,`nomeEvento`,`local`,`valorLocalUnd`,`qtLocal`,`divulgacao`,`decoraIlumina`,`equipamentos`,`alimentacao`,`hospedagem`,`equipe`,`equipeQtd`,`outros`,`createdAt`,`updatedAt`,`id_Usuario`,`id_Evento`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);',[39m
+[31m    parameters: [[39m
+[31m      '7',                   'edddd5',[39m
+[31m      '4444',                'ffddfd',[39m
+[31m      'NaN',                 'NaN',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '0',                   '0',[39m
+[31m      '2022-07-10 18:28:26', '2022-07-10 18:28:26',[39m
+[31m      '1',                   '7'[39m
+[31m    ],[39m
+[31m    fields: [ 'id_Evento' ],[39m
+[31m    table: 'eventos',[39m
+[31m    value: '7',[39m
+[31m    index: 'costos_ibfk_2',[39m
+[31m    reltype: 'child'[39m
+[31m  }[39m
+[31m}[39m
+2022-07-10 15:28:51:2851 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:28:51:2851 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:28:51:2851 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:29:28:2928 - [35mhttp[39m: [35mPOST /api/evento/2/costs/ 201 75 - 35.625 ms[39m
+[35m[39m
+2022-07-10 15:29:51:2951 - [35mhttp[39m: [35mPOST /api/evento/2/costs/ 404 77 - 21.446 ms[39m
+[35m[39m
+2022-07-10 15:30:12:3012 - [35mhttp[39m: [35mGET /api/evento/costs/ 200 71 - 8.505 ms[39m
+[35m[39m
+2022-07-10 15:30:22:3022 - [35mhttp[39m: [35mGET /api/evento/costs/ 200 391 - 14.378 ms[39m
+[35m[39m
+2022-07-10 15:30:43:3043 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:30:43:3043 - [35mhttp[39m: [35mPATCH /api/evento/1/costs/ 500 38 - 12.477 ms[39m
+[35m[39m
+2022-07-10 15:31:12:3112 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:31:12:3112 - [35mhttp[39m: [35mPATCH /api/evento/1/costs/ 500 38 - 3.182 ms[39m
+[35m[39m
+2022-07-10 15:31:14:3114 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:31:14:3114 - [35mhttp[39m: [35mPATCH /api/evento/1/costs/ 500 38 - 3.717 ms[39m
+[35m[39m
+2022-07-10 15:31:20:3120 - [35mhttp[39m: [35mGET /api/evento/costs/ 200 391 - 16.568 ms[39m
+[35m[39m
+2022-07-10 15:31:43:3143 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:31:43:3143 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:31:43:3143 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:31:50:3150 - [35mhttp[39m: [35mGET /api/evento/costs/ 200 391 - 14.303 ms[39m
+[35m[39m
+2022-07-10 15:32:11:3211 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:32:11:3211 - [35mhttp[39m: [35mPATCH /api/evento/1/costs/ 500 38 - 13.927 ms[39m
+[35m[39m
+2022-07-10 15:33:37:3337 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:33:37:3337 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:33:37:3337 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:33:43:3343 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:33:43:3343 - [35mhttp[39m: [35mPATCH /api/evento/1/costs/ 500 38 - 15.282 ms[39m
+[35m[39m
+2022-07-10 15:34:15:3415 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:34:15:3415 - [35mhttp[39m: [35mPATCH /api/evento/1/costs/ 500 38 - 6.252 ms[39m
+[35m[39m
+2022-07-10 15:34:42:3442 - [35mhttp[39m: [35mGET /api/evento/ 200 446 - 14.902 ms[39m
+[35m[39m
+2022-07-10 15:35:04:354 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:35:04:354 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 500 38 - 4.498 ms[39m
+[35m[39m
+2022-07-10 15:35:17:3517 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:35:17:3517 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 500 38 - 3.848 ms[39m
+[35m[39m
+2022-07-10 15:36:15:3615 - [35mhttp[39m: [35mPOST /api/evento/2/costs/ 404 77 - 16.412 ms[39m
+[35m[39m
+2022-07-10 15:36:58:3658 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:36:58:3658 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 500 38 - 4.179 ms[39m
+[35m[39m
+2022-07-10 15:37:33:3733 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:37:34:3734 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:37:34:3734 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:37:36:3736 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:37:36:3736 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 500 38 - 23.717 ms[39m
+[35m[39m
+2022-07-10 15:38:21:3821 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:38:21:3821 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:38:21:3821 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:38:27:3827 - [31merror[39m: [31mErro no custo - Rota - atualizar:WHERE parameter "id_Evento" has invalid "undefined" value[39m
+2022-07-10 15:38:27:3827 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 500 38 - 27.357 ms[39m
+[35m[39m
+2022-07-10 15:39:10:3910 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:39:11:3911 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:39:11:3911 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:39:16:3916 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 404 41 - 37.842 ms[39m
+[35m[39m
+2022-07-10 15:39:44:3944 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 404 41 - 11.967 ms[39m
+[35m[39m
+2022-07-10 15:42:15:4215 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 15:42:15:4215 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 15:42:15:4215 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 15:42:17:4217 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 201 61 - 20.765 ms[39m
+[35m[39m
+2022-07-10 15:42:27:4227 - [35mhttp[39m: [35mPATCH /api/evento/2/costs/ 201 61 - 10.567 ms[39m
+[35m[39m
+2022-07-10 15:42:40:4240 - [35mhttp[39m: [35mPATCH /api/evento/20/costs/ 404 41 - 6.776 ms[39m
+[35m[39m
+2022-07-10 15:43:31:4331 - [35mhttp[39m: [35mDELETE /api/evento/2/costs/ 200 54 - 10.970 ms[39m
+[35m[39m
+2022-07-10 15:43:43:4343 - [35mhttp[39m: [35mDELETE /api/evento/20/costs/ 404 49 - 6.204 ms[39m
+[35m[39m
