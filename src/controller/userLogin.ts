@@ -56,8 +56,13 @@ export class InputLogin {
 					email: dataUser.email,
 				},
 			});
+
+           if(validadorBanco === null) {return res.status(404).json({notificação:'Senha ou email estao incorretos'});
+                       }
+
 			const senhaVerifica: boolean = bcrypt.compareSync(dataUser.senha, validadorBanco.senha);
-			console.log(senhaVerifica);
+
+            console.log(senhaVerifica);
 
 			if (senhaVerifica === true) {
 				const dadosToken = authorization.authenticate(validadorBanco.nome, validadorBanco.id, validadorBanco.senha);
@@ -65,7 +70,7 @@ export class InputLogin {
 					auth: true,
 					Usuario: `${validadorBanco.nome} ${validadorBanco.sobrenome}`,
 					Token: dadosToken,
-				};
+				}
 				return res.status(200).json(respostaLogin);
 			}
 		} catch (e: any) {

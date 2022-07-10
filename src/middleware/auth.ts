@@ -18,7 +18,7 @@ class authorization {
 
 			const token = jwt.sign(valores, secretKey, {
 				subject: id.toString(),
-				expiresIn: 2000,
+				expiresIn: '24h',
 			});
 			return token;
 		} catch (err) {

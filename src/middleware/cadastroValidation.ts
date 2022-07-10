@@ -16,13 +16,9 @@ export const cadastroValidation = () => {
 		body('estado').trim().notEmpty().withMessage('Campo obrigatorio').isLength({
 			min: 2,
 		}),
-		body('nacionalidade')
-			.trim()
-			.notEmpty()
-			.withMessage('Campo obrigatorio')
-			.isLength({
-				min: 2,
-			}),
+		body('nacionalidade').trim().notEmpty().withMessage('Campo obrigatorio').isLength({
+			min: 2,
+		}),
 		body('cep')
 			.trim()
 			.notEmpty()
@@ -50,14 +46,7 @@ export const cadastroValidation = () => {
 			})
 			.withMessage('Somente numeros'),
 
-		body('profissao')
-			.notEmpty()
-			.withMessage('Campo obrigatorio')
-			.isLength({max: 20}),
-		body('produtorEventos')
-			.notEmpty()
-			.withMessage('Campo obrigatorio')
-			.isLength({max: 3})
-			.withMessage('sim ou nao'),
+		body('profissao').notEmpty().withMessage('Campo obrigatorio').isLength({max: 20}),
+		body('produtorEventos').notEmpty().withMessage('Campo obrigatorio').isLength({max: 3}).withMessage('sim ou nao'),
 	];
 };

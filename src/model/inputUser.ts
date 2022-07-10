@@ -28,43 +28,43 @@ InputUsuario.init(
 	{
 		rua: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		numero: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		bairro: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		estado: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		nacionalidade: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		cep: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		cpf: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		rg: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		profissao: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 		produtorEventos: {
 			type: DataTypes.STRING,
-            allowNull: false
+			allowNull: false,
 		},
 	},
 	{

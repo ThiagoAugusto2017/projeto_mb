@@ -1,24 +1,13 @@
+/* eslint-disable no-unused-vars */
 import {Request, Response} from 'express';
 import Logger from '../../config/logger';
+import {RequestBodyUsuarioCompleto} from '../helpers/types';
 import InputUser from '../model/inputUser';
 
 export class InputUsuario {
 	static async usuario(req: Request, res: Response) {
 		try {
 			const {body} = req;
-			type RequestBodyUsuarioCompleto = {
-				rua: String | Number;
-				numero: Number | String;
-				bairro: String;
-				estado: String;
-				nacionalidade: String;
-				cep: String;
-				cpf: Number;
-				rg: Number;
-				profissao: String;
-				produtorEventos: boolean;
-				id_Usuario: string;
-			};
 
 			const dataUsuario: RequestBodyUsuarioCompleto = {
 				...body,
@@ -28,8 +17,9 @@ export class InputUsuario {
 
 			const dataLogin = await InputUser.create(dataUsuario);
 
-			console.log(dataLogin);
-			return res.status(201).json('Cadastro completo, e atualizado');
+			return res
+				.status(201)
+				.json({notificação: 'Cadastro completo, e atualizado'});
 		} catch (e: any) {
 			Logger.error(`Erro no cadastro - Rota - input:${e.message}`);
 			return res.status(500).json({
