@@ -22,7 +22,15 @@ EventoModel.init(
 			type: DataTypes.STRING,
 			allowNull: false,
 		},
-		link: {
+		local: {
+			type: DataTypes.STRING,
+			allowNull: false,
+		},
+		linkEvento: {
+			type: DataTypes.TEXT,
+			allowNull: true,
+		},
+		linkCard: {
 			type: DataTypes.TEXT,
 			allowNull: true,
 		},
