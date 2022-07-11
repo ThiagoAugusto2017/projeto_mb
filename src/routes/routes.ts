@@ -1,4 +1,5 @@
 import {Router} from 'express';
+import multer from 'multer';
 import {InputLogin} from '../controller/userLogin';
 import {InputUsuario} from '../controller/InputUsuario';
 import {validate} from '../middleware/handleValidation';
@@ -27,6 +28,13 @@ router.post(
 );
 
 router.post('/api/evento', authorization.verifyToken, Evento.inputEvento);
+
+router.post(
+	'/api/evento/upload/:id',
+	multer({storage: multer.memoryStorage()}).single('card'),
+	authorization.verifyToken,
+	Evento.inputEventoCard,
+);
 
 router.get('/api/evento', authorization.verifyToken, Evento.allEvent);
 

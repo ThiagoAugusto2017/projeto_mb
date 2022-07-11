@@ -4196,3 +4196,322 @@
 [35m[39m
 2022-07-10 21:11:04:114 - [35mhttp[39m: [35mGET /api/eventos/filtro/personalizado 200 2115 - 11.089 ms[39m
 [35m[39m
+2022-07-10 21:50:03:503 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:50:04:504 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:50:05:505 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 21:50:13:5013 - [31merror[39m: [31mErro no evento - Rota - cadastro:notNull Violation: EventoModel.produtora cannot be null,[39m
+[31mnotNull Violation: EventoModel.nomeEvento cannot be null,[39m
+[31mnotNull Violation: EventoModel.local cannot be null,[39m
+[31mnotNull Violation: EventoModel.modalidade cannot be null,[39m
+[31mnotNull Violation: EventoModel.eventoPagoGratuito cannot be null,[39m
+[31mnotNull Violation: EventoModel.categoria cannot be null,[39m
+[31mnotNull Violation: EventoModel.dataHoraInicio cannot be null,[39m
+[31mnotNull Violation: EventoModel.dataHoraTermino cannot be null,[39m
+[31mnotNull Violation: EventoModel.preco cannot be null,[39m
+[31mnotNull Violation: EventoModel.visibilidade cannot be null,[39m
+[31mnotNull Violation: EventoModel.ambiente cannot be null[39m
+2022-07-10 21:50:13:5013 - [35mhttp[39m: [35mPOST /api/evento/ 500 38 - 162.884 ms[39m
+[35m[39m
+2022-07-10 21:51:57:5157 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:51:58:5158 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:51:58:5158 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 21:52:01:521 - [31merror[39m: [31mErro no evento - Rota - cadastro:notNull Violation: EventoModel.produtora cannot be null,[39m
+[31mnotNull Violation: EventoModel.nomeEvento cannot be null,[39m
+[31mnotNull Violation: EventoModel.local cannot be null,[39m
+[31mnotNull Violation: EventoModel.modalidade cannot be null,[39m
+[31mnotNull Violation: EventoModel.eventoPagoGratuito cannot be null,[39m
+[31mnotNull Violation: EventoModel.categoria cannot be null,[39m
+[31mnotNull Violation: EventoModel.dataHoraInicio cannot be null,[39m
+[31mnotNull Violation: EventoModel.dataHoraTermino cannot be null,[39m
+[31mnotNull Violation: EventoModel.preco cannot be null,[39m
+[31mnotNull Violation: EventoModel.visibilidade cannot be null,[39m
+[31mnotNull Violation: EventoModel.ambiente cannot be null[39m
+2022-07-10 21:52:01:521 - [35mhttp[39m: [35mPOST /api/evento/ 500 38 - 17.224 ms[39m
+[35m[39m
+2022-07-10 21:52:48:5248 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:52:49:5249 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:52:49:5249 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 21:53:45:5345 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:53:45:5345 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:53:45:5345 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 21:54:24:5424 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:54:24:5424 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:54:24:5424 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 21:56:47:5647 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:56:47:5647 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:56:47:5647 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 21:57:03:573 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 21:57:03:573 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 21:57:04:574 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:29:28:2928 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:29:28:2928 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:29:29:2929 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:29:36:2936 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:29:36:2936 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:29:36:2936 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:30:06:306 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:30:06:306 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:30:06:306 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:30:35:3035 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:30:36:3036 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:30:36:3036 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:31:28:3128 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:31:29:3129 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:31:29:3129 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:34:28:3428 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:34:28:3428 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:34:28:3428 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:35:05:355 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:35:06:356 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:35:06:356 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:35:34:3534 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:35:35:3535 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:35:35:3535 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:51:58:5158 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:51:58:5158 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:51:58:5158 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:53:10:5310 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:53:10:5310 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:53:11:5311 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:53:13:5313 - [35mhttp[39m: [35mPOST /api/evento/ 500 1999 - 11.324 ms[39m
+[35m[39m
+2022-07-10 22:53:36:5336 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:53:36:5336 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:53:36:5336 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:59:13:5913 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:59:14:5914 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:59:14:5914 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 22:59:24:5924 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 22:59:24:5924 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 22:59:24:5924 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:00:16:016 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:00:16:016 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:00:17:017 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:00:50:050 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:00:50:050 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:00:50:050 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:01:28:128 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:01:28:128 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:01:29:129 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:01:36:136 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:01:36:136 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:01:36:136 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:04:46:446 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:04:48:448 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:04:48:448 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:06:31:631 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:06:31:631 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:06:31:631 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:06:37:637 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:06:37:637 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:06:37:637 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:06:42:642 - [35mhttp[39m: [35mPOST /api/evento/ 200 74 - 513.229 ms[39m
+[35m[39m
+2022-07-10 23:13:39:1339 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:13:39:1339 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:13:39:1339 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:14:41:1441 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:14:42:1442 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:14:42:1442 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:14:53:1453 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:14:53:1453 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:14:53:1453 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:15:12:1512 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:15:13:1513 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:15:13:1513 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:15:28:1528 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:15:28:1528 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:15:28:1528 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:15:54:1554 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:15:55:1555 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:15:55:1555 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:15:59:1559 - [31merror[39m: [31mErro no evento - Rota - cadastro:eventoBody is not defined[39m
+2022-07-10 23:15:59:1559 - [35mhttp[39m: [35mPOST /api/evento/ 500 38 - 64.271 ms[39m
+[35m[39m
+2022-07-10 23:16:22:1622 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:16:22:1622 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:16:22:1622 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:16:25:1625 - [35mhttp[39m: [35mPOST /api/evento/ 201 49 - 39.340 ms[39m
+[35m[39m
+2022-07-10 23:18:37:1837 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:18:38:1838 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:18:38:1838 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:20:37:2037 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:20:38:2038 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:20:38:2038 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:20:43:2043 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:20:43:2043 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:20:43:2043 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:21:17:2117 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:21:17:2117 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:21:18:2118 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:21:27:2127 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:21:27:2127 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:21:27:2127 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:22:37:2237 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:22:37:2237 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:22:38:2238 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:23:04:234 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:23:04:234 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:23:04:234 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:23:12:2312 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:23:12:2312 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:23:12:2312 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:23:44:2344 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:23:44:2344 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:23:44:2344 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:25:04:254 - [35mhttp[39m: [35mPOST //api/evento/upload/:id 404 162 - 4.540 ms[39m
+[35m[39m
+2022-07-10 23:25:11:2511 - [31merror[39m: [31mErro no evento - Rota - cadastro:notNull Violation: EventoModel.produtora cannot be null,[39m
+[31mnotNull Violation: EventoModel.nomeEvento cannot be null,[39m
+[31mnotNull Violation: EventoModel.local cannot be null,[39m
+[31mnotNull Violation: EventoModel.modalidade cannot be null,[39m
+[31mnotNull Violation: EventoModel.eventoPagoGratuito cannot be null,[39m
+[31mnotNull Violation: EventoModel.categoria cannot be null,[39m
+[31mnotNull Violation: EventoModel.dataHoraInicio cannot be null,[39m
+[31mnotNull Violation: EventoModel.dataHoraTermino cannot be null,[39m
+[31mnotNull Violation: EventoModel.preco cannot be null,[39m
+[31mnotNull Violation: EventoModel.visibilidade cannot be null,[39m
+[31mnotNull Violation: EventoModel.ambiente cannot be null[39m
+2022-07-10 23:25:11:2511 - [35mhttp[39m: [35mPOST /api/evento/upload/:id 500 38 - 23.036 ms[39m
+[35m[39m
+2022-07-10 23:26:19:2619 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:26:20:2620 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:26:20:2620 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:26:25:2625 - [35mhttp[39m: [35mPOST /api/evento/upload/:id 201 45 - 252.420 ms[39m
+[35m[39m
+2022-07-10 23:26:51:2651 - [35mhttp[39m: [35mPOST /api/evento/upload/1 201 45 - 101.199 ms[39m
+[35m[39m
+2022-07-10 23:28:20:2820 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:28:21:2821 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:28:21:2821 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:29:06:296 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:29:06:296 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:29:06:296 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:29:14:2914 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:29:14:2914 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:29:14:2914 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:29:55:2955 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:29:55:2955 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:29:55:2955 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:35:22:3522 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:35:22:3522 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:35:22:3522 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:35:36:3536 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:35:36:3536 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:35:36:3536 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:35:42:3542 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:35:42:3542 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:35:42:3542 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:36:27:3627 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:36:27:3627 - [32minfo[39m: [32mTable sendo recriadas[39m
+2022-07-10 23:36:28:3628 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:37:03:373 - [35mhttp[39m: [35mPOST /api/evento/upload/3 201 45 - 56.514 ms[39m
+[35m[39m
+2022-07-10 23:40:18:4018 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:40:18:4018 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:40:19:4019 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:40:45:4045 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 52.499 ms[39m
+[35m[39m
+2022-07-10 23:41:58:4158 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:41:59:4159 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:41:59:4159 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:42:14:4214 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:42:15:4215 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:42:15:4215 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:42:30:4230 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:42:30:4230 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:42:30:4230 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:42:34:4234 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 37.102 ms[39m
+[35m[39m
+2022-07-10 23:43:32:4332 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:43:32:4332 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:43:32:4332 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:43:46:4346 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:43:46:4346 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:43:47:4347 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:44:49:4449 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:44:49:4449 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:44:49:4449 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:45:16:4516 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:45:16:4516 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:45:16:4516 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:46:04:464 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:46:05:465 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:46:05:465 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:46:24:4624 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:46:24:4624 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:46:24:4624 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:46:30:4630 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:46:30:4630 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:46:30:4630 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:46:44:4644 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:46:44:4644 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:46:44:4644 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:46:56:4656 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:46:56:4656 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:46:56:4656 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:47:05:475 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 60.369 ms[39m
+[35m[39m
+2022-07-10 23:47:46:4746 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:47:47:4747 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:47:47:4747 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:47:50:4750 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 36.443 ms[39m
+[35m[39m
+2022-07-10 23:48:06:486 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:48:06:486 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:48:06:486 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:48:11:4811 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 47.280 ms[39m
+[35m[39m
+2022-07-10 23:48:38:4838 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:48:38:4838 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:48:39:4839 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:48:44:4844 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:48:45:4845 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:48:45:4845 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:48:47:4847 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 35.246 ms[39m
+[35m[39m
+2022-07-10 23:49:02:492 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:49:02:492 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:49:02:492 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:49:37:4937 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:49:38:4938 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:49:38:4938 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:50:09:509 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:50:10:5010 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:50:10:5010 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:50:21:5021 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:50:21:5021 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:50:21:5021 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:52:01:521 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:52:01:521 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:52:01:521 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:52:03:523 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:52:03:523 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:52:03:523 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:53:54:5354 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:53:54:5354 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:53:54:5354 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:54:29:5429 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:54:29:5429 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:54:29:5429 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:54:42:5442 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:54:43:5443 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:54:43:5443 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:54:46:5446 - [35mhttp[39m: [35mPOST /api/evento/upload/30 201 45 - 519.057 ms[39m
+[35m[39m
+2022-07-10 23:54:56:5456 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:54:56:5456 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:54:56:5456 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:55:00:550 - [35mhttp[39m: [35mPOST /api/evento/upload/30 404 53 - 520.138 ms[39m
+[35m[39m
+2022-07-10 23:55:24:5524 - [35mhttp[39m: [35mPOST /api/evento/upload/3 201 45 - 450.692 ms[39m
+[35m[39m
+2022-07-10 23:55:47:5547 - [35mhttp[39m: [35mPOST /api/evento/upload/4 201 45 - 462.098 ms[39m
+[35m[39m
+2022-07-10 23:57:16:5716 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:57:16:5716 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:57:17:5717 - [32minfo[39m: [32mlistening on 3333[39m
+2022-07-10 23:58:39:5839 - [32minfo[39m: [32mAuthenticated  sucess[39m
+2022-07-10 23:58:39:5839 - [32minfo[39m: [32mIniciado sem alteração Table[39m
+2022-07-10 23:58:39:5839 - [32minfo[39m: [32mlistening on 3333[39m

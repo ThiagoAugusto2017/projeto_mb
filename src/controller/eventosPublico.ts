@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */
 /* eslint-disable consistent-return */
 import {Request, Response} from 'express';
@@ -21,6 +22,8 @@ export class EventoPublicoAll {
 				attributes: [
 					'id',
 					'nomeEvento',
+                    'linkCard',
+                    'local',
 					'dataHoraInicio',
 					'dataHoraTermino',
 					'cidade',
@@ -55,6 +58,8 @@ export class EventoPublicoAll {
 				attributes: [
 					'produtora',
 					'nomeEvento',
+                    'linkCard',
+                    'local',
 					'dataHoraInicio',
 					'dataHoraTermino',
 					'cidade',
@@ -99,8 +104,10 @@ export class EventoPublicoAll {
 				attributes: [
 					'id',
 					'nomeEvento',
+                    'linkCard',
 					'dataHoraInicio',
 					'dataHoraTermino',
+                    'local',
 					'cidade',
 					'estado',
 				],
@@ -139,6 +146,8 @@ export class EventoPublicoAll {
                 attributes: [
 					'id',
 					'nomeEvento',
+                    'local',
+                    'linkCard',
 					'dataHoraInicio',
 					'dataHoraTermino',
                     'descricaoEvento',

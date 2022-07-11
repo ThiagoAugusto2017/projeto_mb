@@ -4,6 +4,7 @@ import {Request, Response} from 'express';
 import Logger from '../../config/logger';
 import EventoModel from '../model/evento';
 import {RequestBodyEvento, RequestBodyUsuarioCompleto} from '../helpers/types';
+import {upload} from '../middleware/inputCard';
 
 export class Evento {
 	static async inputEvento(req: Request, res: Response) {
@@ -12,9 +13,11 @@ export class Evento {
 			const eventoBody: RequestBodyEvento | RequestBodyUsuarioCompleto = {
 				nomeEvento: body.nomeEvento,
 				produtora: body.produtora,
+				local: body.local,
 				categoria: body.categoria,
 				tema: body.tema,
-				link: body.link,
+				linkEvento: body.linkEvento,
+				linkCard: body.linkCard,
 				modalidade: body.modalidade,
 				eventoPagoGratuito: body.eventoPagoGratuito,
 				descricaoEvento: body.descricaoEvento,
@@ -38,6 +41,20 @@ export class Evento {
 			return res
 				.status(201)
 				.json({Notificação: 'Evento registrado com sucesso'});
+		} catch (e: any) {
+			Logger.error(`Erro no evento - Rota - cadastro:${e.message}`);
+			return res.status(500).json({
+				Erro: 'Por favor, tente mais tarde',
+			});
+		}
+	}
+
+	static async inputEventoCard(req: Request, res: Response) {
+		try {
+			const idEvent = req.params.id;
+			const IdUser = req.user.id;
+			const imagenBuffer = req.file?.buffer;
+			upload(imagenBuffer, idEvent, IdUser, res);
 		} catch (e: any) {
 			Logger.error(`Erro no evento - Rota - cadastro:${e.message}`);
 			return res.status(500).json({
