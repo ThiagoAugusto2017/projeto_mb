@@ -46,6 +46,10 @@ InputUsuario.init(
 			type: DataTypes.STRING,
 			allowNull: false,
 		},
+		cidade: {
+			type: DataTypes.STRING,
+			allowNull: false,
+		},
 		cep: {
 			type: DataTypes.STRING,
 			allowNull: false,

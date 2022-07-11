@@ -27,6 +27,7 @@ export class Evento {
 				rua: body.rua,
 				numero: body.numero,
 				bairro: body.bairro,
+				cidade: body.cidade,
 				estado: body.estado,
 				cep: body.cep,
 				id_Usuario: req.user.id,
