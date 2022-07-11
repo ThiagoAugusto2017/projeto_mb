@@ -82,6 +82,10 @@ EventoModel.init(
 			type: DataTypes.STRING,
 			allowNull: true,
 		},
+		cidade: {
+			type: DataTypes.STRING,
+			allowNull: true,
+		},
 		cep: {
 			type: DataTypes.INTEGER,
 			allowNull: true,

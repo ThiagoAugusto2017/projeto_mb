@@ -7,6 +7,7 @@ import authorization from '../middleware/auth';
 import {cadastroValidation} from '../middleware/cadastroValidation';
 import {Evento} from '../controller/eventos';
 import {Costs} from '../controller/costs';
+import {EventoPublicoAll} from '../controller/eventosPublico';
 
 const router = Router();
 
@@ -51,6 +52,17 @@ router.delete(
 	'/api/evento/:id/costs/',
 	authorization.verifyToken,
 	Costs.deltCosts,
+);
+
+router.get('/api/eventos/filtro/', EventoPublicoAll.eventoCidade);
+
+router.get('/api/eventos/filtro/:id/detalhes', EventoPublicoAll.eventodetalhes);
+
+router.get('/api/eventos/filtro/novidades', EventoPublicoAll.eventosUltimosadd);
+
+router.get(
+	'/api/eventos/filtro/personalizado',
+	EventoPublicoAll.eventosFiltoPersonalizado,
 );
 
 export default router;
