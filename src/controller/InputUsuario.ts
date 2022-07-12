@@ -18,9 +18,7 @@ export class InputUsuario {
 
 			const dataLogin = await InputUser.create(dataUsuario);
 
-			return res
-				.status(201)
-				.json({notificação: 'Cadastro completo, e atualizado'});
+			return res.status(201).json({notificação: 'Cadastro completo, e atualizado'});
 		} catch (e: any) {
 			Logger.error(`Erro no cadastro - Rota - input:${e.message}`);
 			return res.status(500).json({

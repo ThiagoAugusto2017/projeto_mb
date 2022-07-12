@@ -1,6 +1,7 @@
 /* eslint-disable prettier/prettier */
 /* eslint-disable consistent-return */
 import {Request, Response} from 'express';
+import { literal } from 'sequelize';
 import Logger from '../../config/logger';
 import CostsModel from '../model/costs';
 import {RequestBodyCosts, RequestBodyEvento} from '../helpers/types';
@@ -140,4 +141,43 @@ export class Costs {
 			});
 		}
 	}
-}
+
+    static async relatorioCostos(req: Request, res: Response) {
+
+		try {
+			const eventoRegional = await CostsModel.findAll({
+                where: {
+                    id: req.params.id,
+                  },
+                  attributes: [
+                    'id',
+                    'nomeEvento',
+                    'divulgacao',
+                    'decoraIlumina',
+                    'equipamentos',
+                    'alimentacao',
+                    'hospedagem',
+                    'outros',
+                    [literal('valorLocalUnd * qtLocal'), 'totalEspaco'],
+                    [literal('equipeQtd * equipe'), 'totalEquipe'],
+                    [literal('divulgacao + decoraIlumina+equipamentos+alimentacao+hospedagem+outros+(valorLocalUnd * qtLocal)+(equipeQtd * equipe)'), 'Total'],
+                  ],
+                });
+
+			if (eventoRegional.length > 0) {
+				return res.status(200).json(eventoRegional);
+			}
+
+			return res.status(404).json({
+				Notificação: 'Nenhum relatorio encontrado no filtro',
+			});
+		} catch (e: any) {
+			Logger.error(`Erro no evento - Rota - custo detalhado:${e.message}`);
+			return res.status(500).json({
+				Erro: 'Por favor, tente mais tarde',
+			});
+		}
+	}
+
+
+            }

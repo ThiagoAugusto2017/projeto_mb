@@ -41,9 +41,7 @@ export class Evento {
 
 			const dataEvento = await EventoModel.create(eventoBody);
 
-			return res
-				.status(201)
-				.json({Notificação: 'Evento registrado com sucesso'});
+			return res.status(201).json({Notificação: 'Evento registrado com sucesso'});
 		} catch (e: any) {
 			Logger.error(`Erro no evento - Rota - cadastro:${e.message}`);
 			return res.status(500).json({

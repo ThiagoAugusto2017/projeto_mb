@@ -111,7 +111,9 @@ export class EventoPublicoAll {
 
 	static async eventosFiltoPersonalizado(req: Request, res: Response) {
 		const {nomeEvento, modalidade, categoria, preco, cidade, produtora} = req.query;
-		const filtro: RequestBodyEvento = {};
+		const filtro: RequestBodyEvento = {
+
+        };
 		if (nomeEvento) filtro.nomeEvento = nomeEvento as string;
 		if (modalidade) filtro.modalidade = modalidade as string;
 		if (categoria) filtro.categoria = categoria as string;
