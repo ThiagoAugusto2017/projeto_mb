@@ -25,7 +25,7 @@ export class Costs {
 				outros: body.outros,
 				id_Usuario: req.user.id,
 				id_Evento: req.params.id,
-                id:req.params.id
+				id: req.params.id,
 			};
 
 			try {
@@ -35,12 +35,10 @@ export class Costs {
 					},
 				});
 				if (dataEventoBody.count <= 0) {
-
 					await CostsModel.create(costsBody);
 
 					return res.status(201).json({
-						Notificação:
-							'Dados de custo foi registrado para o evento com sucesso',
+						Notificação: 'Dados de custo foi registrado para o evento com sucesso',
 					});
 				}
 				return res.status(404).json({
@@ -57,27 +55,28 @@ export class Costs {
 		}
 	}
 
-    static async edtCosts(req: Request, res: Response) {
+	static async edtCosts(req: Request, res: Response) {
 		const {body} = req;
 		const {id} = req.params;
 
-        const costsBody: RequestBodyCosts | RequestBodyEvento = {
-            ...body}
+		const costsBody: RequestBodyCosts | RequestBodyEvento = {
+			...body,
+		};
 		try {
 			const eventoEdt = await CostsModel.update(costsBody, {
 				where: {
-                    id_Evento: id
+					id_Evento: id,
 				},
 			});
 
 			if (eventoEdt[0] <= 0) {
 				return res.status(404).json({
-                    Notificação: 'Evento nao encontrado',
-                });
+					Notificação: 'Evento nao encontrado',
+				});
 			}
 			return res.status(201).json({
-                Notificação: 'Dados de custo foi atualizado com sucesso',
-            });
+				Notificação: 'Dados de custo foi atualizado com sucesso',
+			});
 		} catch (e: any) {
 			Logger.error(`Erro no custo - Rota - atualizar:${e.message}`);
 			return res.status(500).json({
@@ -86,7 +85,7 @@ export class Costs {
 		}
 	}
 
-    static async deltCosts(req: Request, res: Response) {
+	static async deltCosts(req: Request, res: Response) {
 		const idUsuarioAut: string = req.user.id;
 		const {id} = req.params;
 
@@ -115,7 +114,7 @@ export class Costs {
 		}
 	}
 
-    static async allCosts(req: Request, res: Response) {
+	static async allCosts(req: Request, res: Response) {
 		const idUsuarioAut: string = req.user.id;
 
 		try {
@@ -141,6 +140,4 @@ export class Costs {
 			});
 		}
 	}
-
-
 }

@@ -5,12 +5,7 @@ import FormData from 'form-data';
 import EventoModel from '../model/evento';
 import Logger from '../../config/logger';
 
-export function upload(
-	image: any,
-	idEvent: string,
-	IdUser: string,
-	res: Response,
-) {
+export function upload(image: any, idEvent: string, IdUser: string, res: Response) {
 	const data = new FormData();
 	data.append('image', image);
 	const valorRandom = Math.floor(Math.random() * 258425485482655);
@@ -40,9 +35,7 @@ export function upload(
 					},
 				);
 				if (!imageUp[0]) {
-					return res
-						.status(404)
-						.json({Notificação: 'Este evento nao pode receber card'});
+					return res.status(404).json({Notificação: 'Este evento nao pode receber card'});
 				}
 				return res.status(201).json({Notificação: 'Card inserido com sucesso'});
 			}

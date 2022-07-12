@@ -9,6 +9,7 @@ import {cadastroValidation} from '../middleware/cadastroValidation';
 import {Evento} from '../controller/eventos';
 import {Costs} from '../controller/costs';
 import {EventoPublicoAll} from '../controller/eventosPublico';
+import {Ingresso} from '../controller/ingresso';
 
 const router = Router();
 
@@ -71,6 +72,12 @@ router.get('/api/eventos/filtro/novidades', EventoPublicoAll.eventosUltimosadd);
 router.get(
 	'/api/eventos/filtro/personalizado',
 	EventoPublicoAll.eventosFiltoPersonalizado,
+);
+
+router.post(
+	'/api/eventos/filtro/:id/detalhes/ingresso',
+	authorization.verifyToken,
+	Ingresso.ingressoCompra,
 );
 
 export default router;

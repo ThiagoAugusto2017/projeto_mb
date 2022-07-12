@@ -19,16 +19,7 @@ export class EventoPublicoAll {
 						[Op.like]: `%${search}%`,
 					},
 				},
-				attributes: [
-					'id',
-					'nomeEvento',
-                    'linkCard',
-                    'local',
-					'dataHoraInicio',
-					'dataHoraTermino',
-					'cidade',
-					'estado',
-				],
+				attributes: ['id', 'nomeEvento', 'linkCard', 'local', 'dataHoraInicio', 'dataHoraTermino', 'cidade', 'estado'],
 			});
 
 			if (eventoRegional.length > 0) {
@@ -58,8 +49,8 @@ export class EventoPublicoAll {
 				attributes: [
 					'produtora',
 					'nomeEvento',
-                    'linkCard',
-                    'local',
+					'linkCard',
+					'local',
 					'dataHoraInicio',
 					'dataHoraTermino',
 					'cidade',
@@ -101,16 +92,7 @@ export class EventoPublicoAll {
 						[Op.gt]: new Date(+new Date() + 1000 * 60 * 60 * 48),
 					},
 				},
-				attributes: [
-					'id',
-					'nomeEvento',
-                    'linkCard',
-					'dataHoraInicio',
-					'dataHoraTermino',
-                    'local',
-					'cidade',
-					'estado',
-				],
+				attributes: ['id', 'nomeEvento', 'linkCard', 'dataHoraInicio', 'dataHoraTermino', 'local', 'cidade', 'estado'],
 			});
 			if (eventosUltimosadd[0]) {
 				return res.status(200).json(eventosUltimosadd);
@@ -128,37 +110,37 @@ export class EventoPublicoAll {
 	}
 
 	static async eventosFiltoPersonalizado(req: Request, res: Response) {
-        const {nomeEvento, modalidade, categoria, preco, cidade, produtora} =
-            req.query;
-        const filtro: RequestBodyEvento = {};
-        if (nomeEvento) filtro.nomeEvento = nomeEvento as string;
-        if (modalidade) filtro.modalidade = modalidade as string;
-        if (categoria) filtro.categoria = categoria as string;
-        if (preco) filtro.preco = preco as any;
-        if (cidade) filtro.cidade = cidade as any;
-        if (produtora) filtro.produtora = produtora as string;
-			try {
-
+		const {nomeEvento, modalidade, categoria, preco, cidade, produtora} = req.query;
+		const filtro: RequestBodyEvento = {};
+		if (nomeEvento) filtro.nomeEvento = nomeEvento as string;
+		if (modalidade) filtro.modalidade = modalidade as string;
+		if (categoria) filtro.categoria = categoria as string;
+		if (preco) filtro.preco = preco as any;
+		if (cidade) filtro.cidade = cidade as any;
+		if (produtora) filtro.produtora = produtora as string;
+		try {
 			console.log(filtro);
 			const eventosFiltoPersonalizado = await EventoModel.findAll({
 				raw: true,
-				where:filtro as WhereOptions,
-                attributes: [
+				where: filtro as WhereOptions,
+				attributes: [
 					'id',
 					'nomeEvento',
-                    'local',
-                    'linkCard',
+					'local',
+					'linkCard',
 					'dataHoraInicio',
 					'dataHoraTermino',
-                    'descricaoEvento',
-                    'modalidade',
-                    'preco',
+					'descricaoEvento',
+					'modalidade',
+					'preco',
 					'cidade',
 					'estado',
 				],
 			});
 
+
 			if (eventosFiltoPersonalizado[0]) {
+
 				return res.status(200).json(eventosFiltoPersonalizado);
 			}
 			return res.status(404).json({

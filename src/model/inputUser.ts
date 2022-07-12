@@ -1,22 +1,12 @@
 /* eslint-disable prettier/prettier */
 import {DataTypes, Model} from 'sequelize';
 import db from '../dataBase/db';
+import {  TodoAttributesCompleto } from '../helpers/types';
 import userLogin from './userLogin';
 
-interface TodoAttributes {
-	rua: string;
-	numero: string;
-	bairro: string;
-	estado: string;
-	nacionalidade: string;
-	cep: string;
-	cpf: number | string;
-	rg: string;
-	profissao: string;
-	produtorEventos: boolean;
-}
 
-class InputUsuario extends Model<TodoAttributes> {
+
+class InputUsuario extends Model<TodoAttributesCompleto> {
 	public readonly createdAt!: Date;
 
 	public readonly updatedAt!: Date;
@@ -54,6 +44,11 @@ InputUsuario.init(
 			type: DataTypes.STRING,
 			allowNull: false,
 		},
+
+		telefone: {
+			type: DataTypes.REAL,
+			allowNull: false,
+		},
 		cpf: {
 			type: DataTypes.STRING,
 			allowNull: false,
@@ -82,12 +77,6 @@ InputUsuario.belongsTo(userLogin, {
 	foreignKey: 'id_Usuario',
 });
 
-// User.hasMany(Project, {
-//     sourceKey: 'id',
-//     foreignKey: 'ownerId',
-//     as: 'projects', // this determines the name in `associations`!
-//   });
 
-// }
 
 export default InputUsuario;

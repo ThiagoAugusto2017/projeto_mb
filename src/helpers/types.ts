@@ -9,10 +9,12 @@ type RequestBodyEvento = {
 	eventoPagoGratuito?: String,
 	categoria?: String,
 	descricaoEvento?: String,
-	dataHoraInicio?: Date,
-	dataHoraTermino?: Date,
+	dataHoraInicio: Date,
+	dataHoraTermino: Date,
 	cidade?: String,
-	ingressosQtd?: String,
+	ingressosTotal?: Number,
+	ingressosDisponiveis: Number,
+	ingressosVendidos: Number,
 	preco?: Number,
 	visibilidade?: String,
 	ambiente?: String,
@@ -37,10 +39,13 @@ type RequestBodyCosts = {
 };
 
 type TodoAttributesEvento = {
-	name: string,
-	sobrenome: string,
-	email: string,
-	senha: string,
+	nome?: string,
+	sobrenome?: string,
+	telefone?: Number,
+	email?: string,
+	senha?: string,
+	id_Usuario?: string,
+	id_Evento?: string,
 };
 
 type RequestBodyUsuarioCompleto = {
@@ -51,16 +56,50 @@ type RequestBodyUsuarioCompleto = {
 	cidade?: String,
 	nacionalidade?: String,
 	cep?: String,
+	telefone?: Number,
 	cpf?: Number,
 	rg?: Number,
 	profissao?: String,
 	produtorEventos?: boolean,
 	id_Usuario?: string,
 };
+type RequestBodyIngresso = {
+	ingresso?: String | Number,
+	precoPago?: Number | String,
+	cpf?: Number | String,
+	telefone: Number,
+	id_Evento: Number | String,
+	protocoAutenticado: Number,
+	id_Usuario: string,
+};
+
+interface TodoAttributes {
+	name: string;
+	sobrenome: string;
+	email: string;
+	senha: string;
+}
+
+interface TodoAttributesCompleto {
+	rua: string;
+	numero: string;
+	bairro: string;
+	estado: string;
+	nacionalidade: string;
+	cidade: string;
+	cep: string;
+	cpf: number | string;
+	rg: string;
+	profissao: string;
+	produtorEventos: string;
+}
 
 export {
 	RequestBodyEvento,
 	TodoAttributesEvento,
 	RequestBodyUsuarioCompleto,
 	RequestBodyCosts,
+	RequestBodyIngresso,
+	TodoAttributes,
+	TodoAttributesCompleto,
 };

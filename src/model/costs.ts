@@ -3,7 +3,7 @@ import {DataTypes, Model} from 'sequelize';
 import db from '../dataBase/db';
 import {RequestBodyCosts, RequestBodyEvento} from '../helpers/types';
 import userLogin from './userLogin';
-import Evento from "./evento";
+import Evento from './evento';
 
 class CostsModel extends Model<RequestBodyCosts, RequestBodyEvento> {
 	public readonly createdAt!: Date;
@@ -24,49 +24,49 @@ CostsModel.init(
 			allowNull: false,
 		},
 		local: {
-			type: DataTypes.TEXT,
+			type: DataTypes.STRING,
 			allowNull: false,
 		},
 		valorLocalUnd: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		qtLocal: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		divulgacao: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		decoraIlumina: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		equipamentos: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		alimentacao: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		hospedagem: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		equipe: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		equipeQtd: {
-			type: DataTypes.FLOAT,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		outros: {
-			type: DataTypes.FLOAT,
-			allowNull: true,
-		}
+			type: DataTypes.REAL,
+			allowNull: false,
+		},
 	},
 	{
 		sequelize: db,

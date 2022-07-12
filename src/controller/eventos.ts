@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable consistent-return */
 import {Request, Response} from 'express';
+import moment from 'moment';
 import Logger from '../../config/logger';
 import EventoModel from '../model/evento';
 import {RequestBodyEvento, RequestBodyUsuarioCompleto} from '../helpers/types';
@@ -23,7 +24,9 @@ export class Evento {
 				descricaoEvento: body.descricaoEvento,
 				dataHoraInicio: body.dataHoraInicio,
 				dataHoraTermino: body.dataHoraTermino,
-				ingressosQtd: body.ingressosQtd,
+				ingressosTotal: body.ingressosTotal,
+				ingressosDisponiveis: body.ingressosTotal,
+				ingressosVendidos: 0,
 				preco: body.preco,
 				visibilidade: body.visibilidade,
 				ambiente: body.ambiente,

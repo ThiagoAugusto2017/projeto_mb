@@ -4,7 +4,7 @@ import db from '../dataBase/db';
 import {RequestBodyEvento, RequestBodyUsuarioCompleto} from '../helpers/types';
 import userLogin from './userLogin';
 
-class EventoModel extends Model<RequestBodyEvento, RequestBodyUsuarioCompleto> {
+class EventoModel extends Model<RequestBodyEvento , RequestBodyUsuarioCompleto> {
 	public readonly createdAt!: Date;
 
 	public readonly updatedAt!: Date;
@@ -28,11 +28,11 @@ EventoModel.init(
 		},
 		linkEvento: {
 			type: DataTypes.TEXT,
-			allowNull: true,
+			allowNull: false,
 		},
 		linkCard: {
 			type: DataTypes.TEXT,
-			allowNull: true,
+			allowNull: false,
 		},
 		modalidade: {
 			type: DataTypes.STRING,
@@ -48,7 +48,7 @@ EventoModel.init(
 		},
 		descricaoEvento: {
 			type: DataTypes.TEXT,
-			allowNull: true,
+			allowNull: false,
 		},
 		dataHoraInicio: {
 			type: DataTypes.DATE,
@@ -58,12 +58,20 @@ EventoModel.init(
 			type: DataTypes.DATE,
 			allowNull: false,
 		},
-		ingressosQtd: {
-			type: DataTypes.INTEGER,
-			allowNull: true,
+		ingressosTotal: {
+			type: DataTypes.REAL,
+			allowNull: false,
+		},
+		ingressosDisponiveis: {
+			type: DataTypes.REAL,
+			allowNull: false,
+		},
+		ingressosVendidos: {
+			type: DataTypes.REAL,
+			allowNull: false,
 		},
 		preco: {
-			type: DataTypes.INTEGER,
+			type: DataTypes.REAL,
 			allowNull: false,
 		},
 		visibilidade: {
@@ -76,27 +84,27 @@ EventoModel.init(
 		},
 		rua: {
 			type: DataTypes.STRING,
-			allowNull: true,
+			allowNull: false,
 		},
 		numero: {
-			type: DataTypes.INTEGER,
-			allowNull: true,
+			type: DataTypes.REAL,
+			allowNull: false,
 		},
 		bairro: {
 			type: DataTypes.STRING,
-			allowNull: true,
+			allowNull: false,
 		},
 		estado: {
 			type: DataTypes.STRING,
-			allowNull: true,
+			allowNull: false,
 		},
 		cidade: {
 			type: DataTypes.STRING,
-			allowNull: true,
+			allowNull: false,
 		},
 		cep: {
-			type: DataTypes.INTEGER,
-			allowNull: true,
+			type: DataTypes.REAL,
+			allowNull: false,
 		},
 	},
 	{
@@ -109,5 +117,11 @@ EventoModel.belongsTo(userLogin, {
 	constraints: true,
 	foreignKey: 'id_Usuario',
 });
+userLogin.hasMany(EventoModel,{
+	constraints: true,
+	foreignKey: 'id_Usuario'});
+
+
+
 
 export default EventoModel;

@@ -13,6 +13,7 @@ export class InputUsuario {
 				...body,
 			};
 
+			dataUsuario.id = req.user.id;
 			dataUsuario.id_Usuario = req.user.id;
 
 			const dataLogin = await InputUser.create(dataUsuario);

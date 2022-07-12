@@ -1,13 +1,8 @@
 /* eslint-disable prettier/prettier */
 import {DataTypes, Model} from 'sequelize';
 import db from '../dataBase/db';
+import { TodoAttributes } from '../helpers/types';
 
-interface TodoAttributes {
-	name: string;
-	sobrenome: string;
-	email: string;
-	senha: string;
-}
 
 class userLogin extends Model<TodoAttributes> {
 	public readonly createdAt!: Date;
@@ -41,5 +36,8 @@ userLogin.init(
 		tableName: 'userLogins',
 	},
 );
+
+
+
 
 export default userLogin;
