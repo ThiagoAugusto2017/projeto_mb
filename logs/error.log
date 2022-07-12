@@ -502,3 +502,102 @@
 2022-07-12 11:48:53:4853 - [31merror[39m: [31mRequest failed with status code 403[39m
 2022-07-12 11:48:56:4856 - [31merror[39m: [31mRequest failed with status code 403[39m
 2022-07-12 11:53:57:5357 - [31merror[39m: [31mErro no evento - Rota - pesquisa regional:Unknown column 'amount' in 'field list'[39m
+2022-07-12 12:17:33:1733 - [31merror[39m: [31mResult {[39m
+[31m  formatter: [Function: formatter],[39m
+[31m  errors: [[39m
+[31m    {[39m
+[31m      value: '',[39m
+[31m      msg: 'Nome obrigatorio',[39m
+[31m      param: 'nome',[39m
+[31m      location: 'body'[39m
+[31m    },[39m
+[31m    {[39m
+[31m      value: '',[39m
+[31m      msg: 'Favor conferir nome enviado',[39m
+[31m      param: 'nome',[39m
+[31m      location: 'body'[39m
+[31m    },[39m
+[31m    {[39m
+[31m      value: 'a@teste.com',[39m
+[31m      msg: 'Email ja esta em uso, favor cadastrar com outro e-mail;',[39m
+[31m      param: 'email',[39m
+[31m      location: 'body'[39m
+[31m    }[39m
+[31m  ][39m
+[31m}[39m
+2022-07-12 12:23:29:2329 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:23:35:2335 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:23:54:2354 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:23:57:2357 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:24:16:2416 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:24:25:2425 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:26:39:2639 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:27:09:279 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:27:34:2734 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:27:40:2740 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:33:46:3346 - [31merror[39m: [31mErro no cadastro - Rota - input:id is not defined[39m
+2022-07-12 12:35:11:3511 - [31merror[39m: [31mErro no cadastro - Rota - input:id is not defined[39m
+2022-07-12 12:44:24:4424 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:52:43:5243 - [31merror[39m: [31mErro no cadastro - Rota - input:notNull Violation: InputUsuario.bairro cannot be null,[39m
+[31mnotNull Violation: InputUsuario.estado cannot be null,[39m
+[31mnotNull Violation: InputUsuario.nacionalidade cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cidade cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cep cannot be null,[39m
+[31mnotNull Violation: InputUsuario.telefone cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cpf cannot be null,[39m
+[31mnotNull Violation: InputUsuario.rg cannot be null,[39m
+[31mnotNull Violation: InputUsuario.profissao cannot be null,[39m
+[31mnotNull Violation: InputUsuario.produtorEventos cannot be null[39m
+2022-07-12 12:53:22:5322 - [31merror[39m: [31mErro no cadastro - Rota - input:notNull Violation: InputUsuario.bairro cannot be null,[39m
+[31mnotNull Violation: InputUsuario.estado cannot be null,[39m
+[31mnotNull Violation: InputUsuario.nacionalidade cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cidade cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cep cannot be null,[39m
+[31mnotNull Violation: InputUsuario.telefone cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cpf cannot be null,[39m
+[31mnotNull Violation: InputUsuario.rg cannot be null,[39m
+[31mnotNull Violation: InputUsuario.profissao cannot be null,[39m
+[31mnotNull Violation: InputUsuario.produtorEventos cannot be null[39m
+2022-07-12 12:53:43:5343 - [31merror[39m: [31mErro no cadastro - Rota - input:notNull Violation: InputUsuario.bairro cannot be null,[39m
+[31mnotNull Violation: InputUsuario.estado cannot be null,[39m
+[31mnotNull Violation: InputUsuario.nacionalidade cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cidade cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cep cannot be null,[39m
+[31mnotNull Violation: InputUsuario.telefone cannot be null,[39m
+[31mnotNull Violation: InputUsuario.cpf cannot be null,[39m
+[31mnotNull Violation: InputUsuario.rg cannot be null,[39m
+[31mnotNull Violation: InputUsuario.profissao cannot be null,[39m
+[31mnotNull Violation: InputUsuario.produtorEventos cannot be null[39m
+2022-07-12 12:54:18:5418 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 12:54:45:5445 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 13:19:53:1953 - [31merror[39m: [31mResult {[39m
+[31m  formatter: [Function: formatter],[39m
+[31m  errors: [[39m
+[31m    {[39m
+[31m      value: 'r',[39m
+[31m      msg: 'Favor conferir nome enviado',[39m
+[31m      param: 'nome',[39m
+[31m      location: 'body'[39m
+[31m    },[39m
+[31m    {[39m
+[31m      value: 'a@teste.com',[39m
+[31m      msg: 'Email ja esta em uso, favor cadastrar com outro e-mail;',[39m
+[31m      param: 'email',[39m
+[31m      location: 'body'[39m
+[31m    }[39m
+[31m  ][39m
+[31m}[39m
+2022-07-12 13:20:06:206 - [31merror[39m: [31mResult {[39m
+[31m  formatter: [Function: formatter],[39m
+[31m  errors: [[39m
+[31m    {[39m
+[31m      value: 'a@teste.com',[39m
+[31m      msg: 'Email ja esta em uso, favor cadastrar com outro e-mail;',[39m
+[31m      param: 'email',[39m
+[31m      location: 'body'[39m
+[31m    }[39m
+[31m  ][39m
+[31m}[39m
+2022-07-12 13:22:47:2247 - [31merror[39m: [31mErro no cadastro - Rota - input:Validation error[39m
+2022-07-12 13:41:00:410 - [31merror[39m: [31mErro no evento - Rota - cadastro:notNull Violation: EventoModel.ingressosDisponiveis cannot be null,[39m
+[31mnotNull Violation: EventoModel.ingressosVendidos cannot be null[39m
