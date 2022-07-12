@@ -2,6 +2,7 @@
 /* eslint-disable consistent-return */
 import {Request, Response} from 'express';
 import moment from 'moment';
+import {validationResult} from 'express-validator';
 import Logger from '../../config/logger';
 import EventoModel from '../model/evento';
 import {RequestBodyEvento, RequestBodyUsuarioCompleto} from '../helpers/types';
@@ -10,32 +11,18 @@ import {upload} from '../middleware/inputCard';
 export class Evento {
 	static async inputEvento(req: Request, res: Response) {
 		try {
+			const errors = validationResult(req);
+			if (!errors.isEmpty()) {
+				return res.status(400).json({
+					errors: errors.array(),
+				});
+			}
 			const {body} = req;
 			const eventoBody: RequestBodyEvento | RequestBodyUsuarioCompleto = {
-				nomeEvento: body.nomeEvento,
-				produtora: body.produtora,
-				local: body.local,
-				categoria: body.categoria,
-				tema: body.tema,
-				linkEvento: body.linkEvento,
-				linkCard: body.linkCard,
-				modalidade: body.modalidade,
-				eventoPagoGratuito: body.eventoPagoGratuito,
-				descricaoEvento: body.descricaoEvento,
-				dataHoraInicio: body.dataHoraInicio,
-				dataHoraTermino: body.dataHoraTermino,
-				ingressosTotal: body.ingressosTotal,
+				...body,
 				ingressosDisponiveis: body.ingressosTotal,
 				ingressosVendidos: 0,
-				preco: body.preco,
-				visibilidade: body.visibilidade,
-				ambiente: body.ambiente,
-				rua: body.rua,
-				numero: body.numero,
-				bairro: body.bairro,
-				cidade: body.cidade,
-				estado: body.estado,
-				cep: body.cep,
+
 				id_Usuario: req.user.id,
 			};
 

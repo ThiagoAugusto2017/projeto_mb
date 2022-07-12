@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import {Request, Response} from 'express';
 import moment from 'moment';
+import {validationResult} from 'express-validator';
 import {qrCode} from '../helpers/qrCode';
 import Logger from '../../config/logger';
 import {sendNotificacao} from '../helpers/notificacao';
@@ -10,6 +11,12 @@ import IngressoModel from '../model/ingressos';
 
 export class Ingresso {
 	static async ingressoCompra(req: Request, res: Response) {
+		const errors = validationResult(req);
+		if (!errors.isEmpty()) {
+			return res.status(400).json({
+				errors: errors.array(),
+			});
+		}
 		const {body} = req;
 		const {id} = req.params;
 		const IngressoBory: RequestBodyIngresso | TodoAttributesEvento | RequestBodyUsuarioCompleto = {

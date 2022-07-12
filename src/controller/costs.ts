@@ -2,6 +2,7 @@
 /* eslint-disable consistent-return */
 import {Request, Response} from 'express';
 import { literal } from 'sequelize';
+import { validationResult } from 'express-validator';
 import Logger from '../../config/logger';
 import CostsModel from '../model/costs';
 import {RequestBodyCosts, RequestBodyEvento} from '../helpers/types';
@@ -9,21 +10,17 @@ import {RequestBodyCosts, RequestBodyEvento} from '../helpers/types';
 export class Costs {
 	static async inputCosts(req: Request, res: Response) {
 		try {
+
+            const errors = validationResult(req);
+			if (!errors.isEmpty()) {
+				return res.status(400).json({
+					errors: errors.array(),
+				});
+			}
+
 			const {body} = req;
 			const costsBody: RequestBodyCosts | RequestBodyEvento = {
-				produtora: body.produtora,
-				nomeEvento: body.nomeEvento,
-				local: body.local,
-				valorLocalUnd: body.valorLocalUnd,
-				qtLocal: body.qtLocal,
-				divulgacao: body.divulgacao,
-				decoraIlumina: body.decoraIlumina,
-				equipamentos: body.equipamentos,
-				alimentacao: body.alimentacao,
-				hospedagem: body.hospedagem,
-				equipeQtd: body.equipeQtd,
-				equipe: body.equipe,
-				outros: body.outros,
+				...body,
 				id_Usuario: req.user.id,
 				id_Evento: req.params.id,
 				id: req.params.id,

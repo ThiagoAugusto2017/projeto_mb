@@ -35,33 +35,23 @@ export const userInputValidation = () => {
 				});
 
 				if (existingUser) {
-					throw new Error(
-						'Email ja esta em uso, favor cadastrar com outro e-mail;',
-					);
+					throw new Error('Email ja esta em uso, favor cadastrar com outro e-mail;');
 				}
 			}),
 		check('senha')
 			.isString()
 			.isLength({min: 8})
-			.withMessage(
-				'Sua senha deve conter numeros, letras e ter no minimo 8 caracteres',
-			)
+			.withMessage('Sua senha deve conter numeros, letras e ter no minimo 8 caracteres')
 			.not()
 			.isLowercase()
-			.withMessage(
-				'Sua senha deve conter numeros, letras e ter no minimo 8 caracteres',
-			)
+			.withMessage('Sua senha deve conter numeros, letras e ter no minimo 8 caracteres')
 			.not()
 			.isUppercase()
 			.not()
-			.withMessage(
-				'Sua senha deve conter numeros, letras e ter no minimo 8 caracteres',
-			)
+			.withMessage('Sua senha deve conter numeros, letras e ter no minimo 8 caracteres')
 			.isNumeric()
 			.not()
 			.isAlpha()
-			.withMessage(
-				'Sua senha deve conter numeros, letras e ter no minimo 8 caracteres',
-			),
+			.withMessage('Sua senha deve conter numeros, letras e ter no minimo 8 caracteres'),
 	];
 };
