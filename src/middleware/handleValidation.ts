@@ -1,5 +1,6 @@
 import {Request, Response, NextFunction} from 'express';
 import {validationResult} from 'express-validator';
+import Logger from '../../config/logger';
 
 export const validate = (req: Request, res: Response, next: NextFunction) => {
 	const erros = validationResult(req);
@@ -14,7 +15,7 @@ export const validate = (req: Request, res: Response, next: NextFunction) => {
 			[err.param]: err.msg,
 		}),
 	);
-	console.log(erros);
+	Logger.error(erros);
 	return res.status(422).json({
 		errors: extratectErrors,
 	});
