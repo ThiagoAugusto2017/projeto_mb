@@ -486,3 +486,19 @@
 2022-07-12 00:59:40:5940 - [31merror[39m: [31mRequest failed with status code 503[39m
 2022-07-12 01:52:53:5253 - [31merror[39m: [31mres is not defined[39m
 2022-07-12 01:57:22:5722 - [31merror[39m: [31mRequest failed with status code 503[39m
+2022-07-12 09:47:12:4712 - [31merror[39m: [31mErro no evento - Rota - pesquisa regional:literal is not defined[39m
+2022-07-12 09:56:28:5628 - [31merror[39m: [31mErro no evento - Rota - pesquisa regional:Unknown column 'totalEspaco' in 'field list'[39m
+2022-07-12 10:28:57:2857 - [31merror[39m: [31mErro no evento - Rota - custo detalhado:WHERE parameter "id" has invalid "undefined" value[39m
+2022-07-12 10:40:39:4039 - [31merror[39m: [31mErro no evento - Rota - custo detalhado:WHERE parameter "id" has invalid "undefined" value[39m
+2022-07-12 10:43:29:4329 - [31merror[39m: [31mErro no evento - Rota - custo detalhado:WHERE parameter "id" has invalid "undefined" value[39m
+2022-07-12 10:43:39:4339 - [31merror[39m: [31mErro no evento - Rota - custo detalhado:WHERE parameter "id" has invalid "undefined" value[39m
+2022-07-12 10:50:12:5012 - [31merror[39m: [31mErro no evento - Rota - custo detalhado:The attributes option must be an array of column names or an object[39m
+2022-07-12 10:51:09:519 - [31merror[39m: [31mErro no evento - Rota - custo detalhado:The attributes option must be an array of column names or an object[39m
+2022-07-12 11:48:44:4844 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:48:46:4846 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:48:48:4848 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:48:50:4850 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:48:51:4851 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:48:53:4853 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:48:56:4856 - [31merror[39m: [31mRequest failed with status code 403[39m
+2022-07-12 11:53:57:5357 - [31merror[39m: [31mErro no evento - Rota - pesquisa regional:Unknown column 'amount' in 'field list'[39m

@@ -13,20 +13,10 @@ import {Ingresso} from '../controller/ingresso';
 
 const router = Router();
 
-router.post(
-	'/api/login/cadastro',
-	userInputValidation(),
-	validate,
-	InputLogin.input,
-);
+router.post('/api/login/cadastro', userInputValidation(), validate, InputLogin.input);
 router.post('/api/login', InputLogin.validateSession);
 
-router.post(
-	'/api/usuario',
-	cadastroValidation(),
-	authorization.verifyToken,
-	InputUsuario.usuario,
-);
+router.post('/api/usuario', cadastroValidation(), authorization.verifyToken, InputUsuario.usuario);
 
 router.post('/api/evento', authorization.verifyToken, Evento.inputEvento);
 
@@ -43,25 +33,15 @@ router.patch('/api/evento/:id', authorization.verifyToken, Evento.edtEvento);
 
 router.delete('/api/evento/:id', authorization.verifyToken, Evento.deltEvento);
 
-router.post(
-	'/api/evento/:id/costs/',
-	authorization.verifyToken,
-	Costs.inputCosts,
-);
+router.post('/api/evento/:id/costs/', authorization.verifyToken, Costs.inputCosts);
 
 router.get('/api/evento/costs/', authorization.verifyToken, Costs.allCosts);
 
-router.patch(
-	'/api/evento/:id/costs/',
-	authorization.verifyToken,
-	Costs.edtCosts,
-);
+router.get('/api/evento/:id/costs/relatorio', authorization.verifyToken, Costs.relatorioCostos);
 
-router.delete(
-	'/api/evento/:id/costs/',
-	authorization.verifyToken,
-	Costs.deltCosts,
-);
+router.patch('/api/evento/:id/costs/', authorization.verifyToken, Costs.edtCosts);
+
+router.delete('/api/evento/:id/costs/', authorization.verifyToken, Costs.deltCosts);
 
 router.get('/api/eventos/filtro/', EventoPublicoAll.eventoCidade);
 
@@ -69,15 +49,14 @@ router.get('/api/eventos/filtro/:id/detalhes', EventoPublicoAll.eventodetalhes);
 
 router.get('/api/eventos/filtro/novidades', EventoPublicoAll.eventosUltimosadd);
 
-router.get(
-	'/api/eventos/filtro/personalizado',
-	EventoPublicoAll.eventosFiltoPersonalizado,
-);
+router.get('/api/eventos/filtro/personalizado', EventoPublicoAll.eventosFiltoPersonalizado);
+
+router.post('/api/eventos/filtro/:id/detalhes/ingresso', authorization.verifyToken, Ingresso.ingressoCompra);
 
 router.post(
-	'/api/eventos/filtro/:id/detalhes/ingresso',
+	'/api/eventos/filtro/:id/detalhes/ingresso/relatorio',
 	authorization.verifyToken,
-	Ingresso.ingressoCompra,
+	Ingresso.ingressoRelatorio,
 );
 
 export default router;
